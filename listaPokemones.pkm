@@ -1,0 +1,802 @@
+1;Bulbasaur;Johto;;;;Kalos;;Semilla;Planta;Veneno;6.9 ;0.7 ;Primera;Monstruo;Planta;2
+2;Ivysaur;Johto;;;;Kalos;;Semilla;Planta;Veneno;13.0 ;1.0 ;Primera;Monstruo;Planta;3
+3;Venusaur;Johto;;;;Kalos;;Semilla;Planta;Veneno;100.0 ;2.0 ;Primera;Monstruo;Planta;-1
+4;Charmander;Johto;;;;Kalos;;Semilla;Fuego;;8.5 ;0.6 ;Primera;Monstruo;Dragon;5
+5;Charmeleon;Johto;;;;Kalos;;Llama;Fuego;;19.0 ;1.1 ;Primera;Monstruo;Dragon;6
+6;Charizard;Johto;;;;Kalos;;Semilla;Fuego;Volador;90.5 ;1.7 ;Primera;Monstruo;Dragon;-1
+7;Squirtle;Johto;;;;Kalos;;Tortuguita;Agua;;9.0 ;0.5 ;Primera;Monstruo;Agua 1;8
+8;Wartortle;Johto;;;;Kalos;;Semilla;Agua;;22.5 ;1.0 ;Primera;Monstruo;Agua 1;9
+9;Blastoise;Johto;;;;Kalos;;Marisco;Agua;;85.5 ;1.6 ;Primera;Monstruo;Agua 1;-1
+10;Caterpie;Johto;;;;Kalos;;Semilla;Bicho;;2.9 ;0.3 ;Primera;Bicho;;11
+11;Metapod;Johto;;;;Kalos;Alola;Capullo;Bicho;;9.9 ;0.7 ;Primera;Bicho;;12
+12;Butterfree;Johto;;;;Kalos;;Semilla;Bicho;Volador;32.0 ;1.1 ;Primera;Bicho;;-1
+13;Weedle;Johto;;;;Kalos;;Oruga;Bicho;Veneno;3.2 ;0.3 ;Primera;Bicho;;14
+14;Kakuna;Johto;;;;Kalos;;Semilla;Bicho;Veneno;10.0 ;0.6 ;Primera;Bicho;;15
+15;Beedrill;Johto;;;;Kalos;;Abeja venenosa;Bicho;Veneno;29.5 ;1.0 ;Primera;Bicho;;-1
+16;Pidgey;Johto;;;;Kalos;;Semilla;Normal;Volador;1.8 ;0.3 ;Primera;Volador;;17
+17;Pidgeotto;;;;;Kalos;;Pájaro;Normal;Volador;30.0 ;1.1 ;Primera;Volador;;18
+18;Pidgeot;Johto;;;;Kalos;;Semilla;Normal;Volador;39.5 ;1.5 ;Primera;Volador;;-1
+19;Rattata;;;;;;Alola;Ratón;Normal;;3.5 ;0.3 ;Primera;Campo;;20
+20;Raticate;Johto;;;;;;Semilla;Normal;;18.5 ;0.7 ;Primera;Campo;;-1
+21;Spearow;;;;;;Alola;Pajarito;Normal;Volador;2.0 ;0.3 ;Primera;Volador;;22
+22;Fearow;Johto;;;;;;Semilla;Normal;Volador;38.0 ;1.2 ;Primera;Volador;;-1
+23;Ekans;Johto;;;;;;Serpiente;Veneno;;6.9 ;2.0 ;Primera;Campo;Dragon;24
+24;Arbok;Johto;;;;;;Semilla;Veneno;;65.0 ;3.5 ;Primera;Campo;Dragon;-1
+25;Pikachu;;Hoenn;;;Kalos;Alola;Ratón;Electrico;;6.0 ;0.4 ;Primera;Campo;Hada;26
+26;Raichu;Johto;;;;Kalos;;Semilla;Electrico;;30.0 ;0.8 ;Primera;Campo;Hada;-1
+27;Sandshrew;Johto;Hoenn;;;;Alola;Ratón;Tierra;;12.0 ;0.6 ;Primera;Campo;;28
+28;Sandslash;Johto;;;;;;Semilla;Tierra;;29.5 ;1.0 ;Primera;Campo;;-1
+29;Nidoran#;;;;;;;Semilla;Veneno;;7.0 ;0.4;Primera;Monstruo;Campo;30
+30;Nidorina;Johto;;;;;;Semilla;Veneno;;20.0 ;0.8 ;Primera;Ninguno;;31
+31;Nidoqueen;Johto;;;;;;Taladro;Veneno;Tierra;60.0 ;1.3 ;Primera;Ninguno;;-1
+32;Nidoran_;Johto;;;;;;Semilla;Veneno;;9.0 ;0.5;Primera;Monstruo;Campo;33
+33;Nidorino;Johto;;;;;;Pin veneno;Veneno;;19.5 ;0.9 ;Primera;Monstruo;Campo;34
+34;Nidoking;Johto;;;;;;Semilla;Veneno;Tierra;62.0 ;1.4 ;Primera;Monstruo;Campo;-1
+35;Clefairy;Johto;;;;;Alola;Hada;Hada;;7.5 ;0.6 ;Primera;Hada;;36
+36;Clefable;Johto;;;;;;Semilla;Hada;;40.0 ;1.3 ;Primera;Hada;;-1
+37;Vulpix;Johto;Hoenn;;;;Alola;Zorro;Fuego;;9.9 ;0.6 ;Primera;Campo;;38
+38;Ninetales;Johto;;;;;;Semilla;Fuego;;19.9 ;1.1 ;Primera;Campo;;-1
+39;Jigglypuff;Johto;Hoenn;;;;Alola;Globo;Normal;hada;5.5 ;0.5 ;Primera;Hada;;40
+40;Wigglytuff;Johto;;;;;;Semilla;Normal;hada;12.0 ;1.0 ;Primera;Hada;;-1
+41;Zubat;;Hoenn;Sinnoh;;Kalos;Alola;Murciélago;Veneno;Volador;7.5 ;0.8 ;Primera;Volador;;42
+42;Golbat;Johto;;;;Kalos;;Semilla;Veneno;Volador;55.0 ;1.6 ;Primera;Volador;;-1
+43;Oddish;Johto;Hoenn;;;Kalos;;Hierbajo;Planta;Veneno;5.4 ;0.5 ;Primera;Planta;;44
+44;Gloom;Johto;;;;Kalos;;Semilla;Planta;Veneno;8.6 ;0.8 ;Primera;Planta;;45
+45;Vileplume;Johto;Hoenn;;;Kalos;;Flor;Planta;Veneno;18.6 ;1.2 ;Primera;Planta;;-1
+46;Paras;Johto;;;;;;Semilla;Bicho;Planta;5.4 ;0.3 ;Primera;Bicho;Planta;47
+47;Parasect;Johto;;;;;Alola;Hongo;Bicho;Planta;29.5 ;1.0 ;Primera;Bicho;Planta;-1
+48;Venonat;Johto;;;;;;Semilla;Bicho;Veneno;30.0 ;1.0 ;Primera;Bicho;;49
+49;Venomoth;Johto;;;;;;Polilla venenosa;Bicho;Veneno;12.5 ;1.5 ;Primera;Bicho;;-1
+50;Diglett;Johto;;;;;;Semilla;Tierra;;0.8 ;0.2 ;Primera;Campo;;51
+51;Dugtrio;Johto;;;;;Alola;Topo;Tierra;;33.3 ;0.7 ;Primera;Campo;;-1
+52;Meowth;Johto;;;;;;Semilla;Normal;;4.2 ;0.4 ;Primera;Campo;;53
+53;Persian;Johto;;;;;Alola;Gato fino;Normal;;32.0 ;1.0 ;Primera;Campo;;-1
+54;Psyduck;Johto;;;;Kalos;;Semilla;Agua;;19.6 ;0.8 ;Primera;Agua 1;Campo;55
+55;Golduck;Johto;Hoenn;Sinnoh;;Kalos;Alola;Pato;Agua;;76.6 ;1.7 ;Primera;Agua 1;Campo;-1
+56;Mankey;Johto;;;;;;Semilla;Lucha;;28.0 ;0.5 ;Primera;Campo;;57
+57;Primeape;Johto;;;;;Alola;Mono cerdo;Lucha;;32.0 ;1.0 ;Primera;Campo;;-1
+58;Growlithe;Johto;;;;;;Semilla;Fuego;;19.0 ;0.7 ;Primera;Campo;;59
+59;Arcanine;Johto;;;;;Alola;Legendario;Fuego;;155.0 ;1.9 ;Primera;Campo;;-1
+60;Poliwag;Johto;;;;;;Semilla;Agua;;12.4 ;0.6 ;Primera;Agua 1;;-1
+61;Poliwhirl;Johto;;;;;Alola;Renacuajo;Agua;;20.0 ;1.0 ;Primera;Agua 1;;61
+62;Poliwrath;Johto;;;;;;Semilla;Agua;Lucha;54.0 ;1.3 ;Primera;Agua 1;;62
+63;Abra;Johto;Hoenn;Sinnoh;;Kalos;Alola;Psi;Psiquico;;19.5 ;0.9 ;Primera;Humanoide;;64
+64;Kadabra;Johto;;;;Kalos;;Semilla;Psiquico;;56.5 ;1.3 ;Primera;Humanoide;;65
+65;Alakazam;Johto;Hoenn;Sinnoh;;Kalos;Alola;Psi;Psiquico;;48.0 ;1.5 ;Primera;Humanoide;;-1
+66;Machop;Johto;;;;;;Semilla;Lucha;;19.5 ;0.8 ;Primera;Humanoide;;67
+67;Machoke;Johto;Hoenn;Sinnoh;;;Alola;Superpoder;Lucha;;70.5 ;1.5 ;Primera;Humanoide;;68
+68;Machamp;Johto;;;;;;Semilla;Lucha;;130.0 ;1.6 ;Primera;Humanoide;;-1
+69;Bellsprout;;;;;;;Flor;Planta;Veneno;4.0 ;0.7 ;Primera;Planta;;70
+70;Weepinbell;Johto;;;;;;Semilla;Planta;Veneno;6.4 ;1.0 ;Primera;Planta;;71
+71;Victreebel;;;;;;;Matamoscas;Planta;Veneno;15.5 ;1.7 ;Primera;Planta;;-1
+72;Tentacool;Johto;;;;;;Semilla;Agua;Veneno;45.5 ;0.9 ;Primera;Agua 3;;72
+73;Tentacruel;Johto;Hoenn;;;;Alola;Medusa;Agua;Veneno;55.0 ;1.6 ;Primera;Agua 3;;-1
+74;Geodude;Johto;;;;;;Semilla;Roca;Tierra;20.0 ;0.4 ;Primera;Mineral;;75
+75;Graveler;;Hoenn;Sinnoh;;;Alola;Roca;Roca;Tierra;105.0 ;1.0 ;Primera;Mineral;;76
+76;Golem;Johto;;;;;;Semilla;Roca;Tierra;300.0 ;1.4 ;Primera;Mineral;;-1
+77;Ponyta;Johto;;;;;;Caballo fuego;Fuego;;30.0 ;1.0 ;Primera;Campo;;78
+78;Rapidash;Johto;;;;;;Semilla;Fuego;;95.0 ;1.7 ;Primera;Campo;;-1
+79;Slowpoke;Johto;;;;;Alola;Atontado;Agua;Psiquico;36.0 ;1.2 ;Primera;Monstruo;Agua 1;80
+80;Slowbro;Johto;;;;;;Semilla;Agua;Psiquico;78.5 ;1.6 ;Primera;Monstruo;Agua 1;-1
+81;Magnemite;Johto;Hoenn;;;;Alola;Imán;Electrico;Acero;6.0 ;0.3 ;Primera;Mineral;;82
+82;Magneton;Johto;;;;;;Semilla;Electrico;Acero;60.0 ;1.0 ;Primera;Mineral;;-1
+83;Farfetch'd;Johto;;;;Kalos;;Pato salvaje;Normal;Volador;15.0 ;0.8 ;Primera;Volador;Campo;-1
+84;Doduo;Johto;;;;Kalos;;Semilla;Normal;Volador;39.2 ;1.4 ;Primera;Volador;;85
+85;Dodrio;Johto;Hoenn;;;Kalos;;Ave triple;Normal;Volador;85.2 ;1.8 ;Primera;Volador;;-1
+86;Seel;Johto;;;;;;Semilla;Agua;;90.0 ;1.1 ;Primera;Agua 1;Campo;86
+87;Dewgong;Johto;;;;;;León marino;Agua;Hielo;120.0 ;1.7 ;Primera;Agua 1;Campo;-1
+88;Grimer;Johto;;;;;;Semilla;Veneno;;30.0 ;0.9 ;Primera;Amorfo;;89
+89;Muk;Johto;Hoenn;;;;Alola;Lodo;Veneno;;30.0 ;1.2 ;Primera;Amorfo;;-1
+90;Shellder;Johto;;;;;;Semilla;Agua;;4.0 ;0.3 ;Primera;Agua 3;;91
+91;Cloyster;Johto;;;;;Alola;Bivalvo;Agua;Hielo;132.5 ;1.5 ;Primera;Agua 3;;-1
+92;Gastly;Johto;;;;;;Semilla;Fantasma;Veneno;0.1 ;1.3 ;Primera;Amorfo;;93
+93;Haunter;;;;;;Alola;Gas;Fantasma;Veneno;0.1 ;1.6 ;Primera;Amorfo;;94
+94;Gengar;Johto;;;;;;Semilla;Fantasma;Veneno;40.5 ;1.5 ;Primera;Amorfo;;-1
+95;Onix;;;Sinnoh;;;;Serpiente roca;Roca;Tierra;210.0 ;8.8 ;Primera;Mineral;;-1
+96;Drowzee;Johto;;;;;;Semilla;Psiquico;;32.4 ;1.0 ;Primera;Humanoide;;97
+97;Hypno;;;;;;Alola;Hipnosis;Psiquico;;75.6 ;1.6 ;Primera;Humanoide;;-1
+98;Krabby;Johto;;;;;;Semilla;Agua;;6.5 ;0.4 ;Primera;Agua 3;;99
+99;Kingler;Johto;;;;;;Tenaza;Agua;;60.0 ;1.3 ;Primera;Agua 3;;-1
+100;Voltorb;Johto;;;;;;Semilla;Electrico;;10.4 ;0.5 ;Primera;Mineral;;101
+101;Electrode;Johto;Hoenn;;;;;Bola;Electrico;;66.6 ;1.2 ;Primera;Mineral;;-1
+102;Exeggcute;Johto;;;;;;Semilla;Planta;Psiquico;2.5 ;0.4 ;Primera;Planta;;103
+103;Exeggutor;Johto;;;;;Alola;Coco;Planta;Psiquico;120.0 ;2.0 ;Primera;Planta;;-1
+104;Cubone;Johto;;;;;;Semilla;Tierra;;6.5 ;0.4 ;Primera;Monstruo;;105
+105;Marowak;Johto;;;;;Alola;Apilahueso;Tierra;;45.0 ;1.0 ;Primera;Monstruo;;-1
+106;Hitmonlee;Johto;;;;;;Semilla;Lucha;;49.8 ;1.5 ;Primera;Humanoide;;107
+107;Hitmonchan;Johto;;;;;;Puñetazo;Lucha;;50.2 ;1.4 ;Primera;Humanoide;;-1
+108;Lickitung;Johto;;;;;;Semilla;Normal;;65.5 ;1.2 ;Primera;Monstruo;;-1
+109;Koffing;Johto;Hoenn;;;;;Gas veneno;Veneno;;1.0 ;0.6 ;Primera;Amorfo;;109
+110;Weezing;Johto;;;;;;Semilla;Veneno;;9.5 ;1.2 ;Primera;Amorfo;;-1
+111;Rhyhorn;Johto;Hoenn;;;;;Clavos;Tierra;Roca;115.0 ;1.0 ;Primera;Monstruo;Campo;112
+112;Rhydon;Johto;;;;;;Semilla;Tierra;Roca;120.0 ;1.9 ;Primera;Monstruo;Campo;-1
+113;Chansey;Johto;;;;;Alola;Huevo;Normal;;34.6 ;1.1 ;Primera;Hada;;-1
+114;Tangela;Johto;;;;;;Semilla;Planta;;35.0 ;1.0 ;Primera;Planta;;-1
+115;Kangaskhan;Johto;;;;;Alola;Padres;Normal;;80.0 ;2.2 ;Primera;Monstruo;;-1
+116;Horsea;Johto;;;;;;Semilla;Agua;;8.0 ;0.4 ;Primera;Agua 1;Dragon;117
+117;Seadra;Johto;Hoenn;;;;;Dragón;Agua;;25.0 ;1.2 ;Primera;Agua 1;Dragon;-1
+118;Goldeen;Johto;;;;Kalos;;Semilla;Agua;;15.0 ;0.6 ;Primera;Agua 2;;119
+119;Seaking;;Hoenn;;;Kalos;Alola;Pez color;Agua;;39.0 ;1.3 ;Primera;Agua 2;;-1
+120;Staryu;Johto;;;;;;Semilla;Agua;;34.5 ;0.8 ;Primera;Agua 3;;121
+121;Starmie;Johto;Hoenn;;;;Alola;Misterioso;Agua;Psiquico;80.0 ;1.1 ;Primera;Agua 3;;-1
+122;Mr. Mime;Johto;;;;;;Semilla;Psiquico;Hada;54.5 ;1.3 ;Primera;Humanoide;;-1
+123;Scyther;;;;;;Alola;Mantis;Bicho;Volador;56.0 ;1.5 ;Primera;Bicho;;-1
+124;Jynx;Johto;;;;;;Semilla;Hielo;Psiquico;40.6 ;1.4 ;Primera;Humanoide;;-1
+125;Electabuzz;Johto;;;;;Alola;Eléctrico;Electrico;;30.0 ;1.1 ;Primera;Humanoide;;-1
+126;Magmar;Johto;;;;;;Semilla;Fuego;;44.5 ;1.3 ;Primera;Humanoide;;-1
+127;Pinsir;;Hoenn;;;;Alola;Escarabajo;Bicho;;55.0 ;1.5 ;Primera;Bicho;;-1
+128;Tauros;Johto;;;;;;Semilla;Normal;;88.4 ;1.4 ;Primera;Campo;;-1
+129;Magikarp;;Hoenn;Sinnoh;;Kalos;Alola;Pez;Agua;;10.0 ;0.9 ;Primera;Agua 2;Dragon;130
+130;Gyarados;Johto;;;;Kalos;;Semilla;Agua;Volador;235.0 ;6.5 ;Primera;Agua 2;Dragon;-1
+131;Lapras;Johto;;;;;Alola;Transporte;Agua;Hielo;220.0 ;2.5 ;Primera;Monstruo;Agua 1;-1
+132;Ditto;Johto;;;;;;Semilla;Normal;;4.0 ;0.3 ;Primera;Ditto;;-1
+133;Eevee;Johto;;;;;Alola;Evolución;Normal;;6.5 ;0.3 ;Primera;Campo;;0
+134;Vaporeon;Johto;;;;;;Semilla;Agua;;29.0 ;1.0 ;Primera;Campo;;-1
+135;Jolteon;Johto;;;;;Alola;Relámpago;Electrico;;24.5 ;0.8 ;Primera;Campo;;-1
+136;Flareon;Johto;;;;;;Semilla;Fuego;;25.0 ;0.9 ;Primera;Campo;;-1
+137;Porygon;Johto;;;;;Alola;Virtual;Normal;;36.5 ;0.8 ;Primera;Mineral;;-1
+138;Omanyte;Johto;;;;;;Semilla;Roca;Agua;7.5 ;0.4 ;Primera;Agua 1;Agua 3;139
+139;Omastar;Johto;;;;;;Espiral;Roca;Agua;35.0 ;1.0 ;Primera;Agua 1;Agua 3;-1
+140;Kabuto;Johto;;;;;;Semilla;Roca;Agua;11.5 ;0.5 ;Primera;Agua 1;Agua 3;141
+141;Kabutops;Johto;;;;;;Marisco;Roca;Agua;40.5 ;1.3 ;Primera;Agua 1;Agua 3;-1
+142;Aerodactyl;Johto;;;;;;Semilla;Roca;Volador;59.0 ;1.8 ;Primera;Volador;;-1
+143;Snorlax;Johto;;;;Kalos;Alola;Dormir;Normal;;460.0 ;2.1 ;Primera;Monstruo;;-1
+144;Articuno;Johto;;;;;;Semilla;Hielo;Volador;55.4 ;1.7 ;Primera;Ninguno;;-1
+145;Zapdos;Johto;;;;;;Eléctrico;Electrico;Volador;52.6 ;1.6 ;Primera;Ninguno;;-1
+146;Moltres;Johto;;;;;;Semilla;Fuego;Volador;60.0 ;2.0 ;Primera;Ninguno;;-1
+147;Dratini;Johto;;;;;Alola;Dragón;Dragon;;3.3 ;1.8 ;Primera;Agua 1;Dragon;148
+148;Dragonair;Johto;;;;;;Semilla;Dragon;;16.5 ;4.0 ;Primera;Agua 1;Dragon;149
+149;Dragonite;Johto;;;;;Alola;Dragón;Dragon;Volador;210.0 ;2.2 ;Primera;Agua 1;Dragon;-1
+150;Mewtwo;Johto;;;;;;Semilla;Psiquico;;122.0 ;2.0 ;Primera;Ninguno;;-1
+151;Mew;Johto;;;;;;Nueva especie;Psiquico;;4.0 ;0.4 ;Primera;Ninguno;;-1
+152;Chikorita;Johto;;;;;;Semilla;Planta;;6.4 ;0.9 ;Segunda;Monstruo;Planta;153
+153;Bayleef;Johto;;;;;;Hoja;Planta;;15.8 ;1.2 ;Segunda;Monstruo;Planta;154
+154;Meganium;Johto;;;;;;Semilla;Planta;;100.5 ;1.8 ;Segunda;Monstruo;Planta;-1
+155;Cyndaquil;Johto;;;;;;Ratónfuego;Fuego;;7.9 ;0.5 ;Segunda;Campo;;156
+156;Quilava;Johto;;;;;;Semilla;Fuego;;19.0 ;0.9 ;Segunda;Campo;;157
+157;Typhlosion;Johto;;;;;;Volcán;Fuego;;79.5 ;1.7 ;Segunda;Campo;;-1
+158;Totodile;Johto;;;;;;Semilla;Agua;;9.5 ;0.6 ;Segunda;Monstruo;Agua 1;159
+159;Croconaw;Johto;;;;;;Gran fauce;Agua;;25.0 ;1.1 ;Segunda;Monstruo;Agua 1;160
+160;Feraligatr;Johto;;;;;;Semilla;Agua;;88.8 ;2.3 ;Segunda;Monstruo;Agua 1;-1
+161;Sentret;Johto;;;;Kalos;;Explorador;Normal;;6.0 ;0.8 ;Segunda;Campo;;162
+162;Furret;Johto;;;;Kalos;;Semilla;Normal;;32.5 ;1.8 ;Segunda;Campo;;-1
+163;Hoothoot;;;;;;;Búho;Normal;Volador;21.2 ;0.7 ;Segunda;Volador;;164
+164;Noctowl;Johto;;;;;;Semilla;Normal;Volador;40.8 ;1.6 ;Segunda;Volador;;-1
+165;Ledyba;;;;;Kalos;Alola;5estrellas;Bicho;Volador;10.8 ;1.0 ;Segunda;Bicho;;166
+166;Ledian;Johto;;;;Kalos;;Semilla;Bicho;Volador;35.6 ;1.4 ;Segunda;Bicho;;-1
+167;Spinarak;;;;;;Alola;Escupesoga;Bicho;Veneno;8.5 ;0.5 ;Segunda;Bicho;;168
+168;Ariados;Johto;;;;;;Semilla;Bicho;Veneno;33.5 ;1.1 ;Segunda;Bicho;;-1
+169;Crobat;;Hoenn;Sinnoh;;Kalos;Alola;Murciélago;Veneno;Volador;75.0 ;1.8 ;Segunda;Volador;;-1
+170;Chinchou;Johto;;;;;;Semilla;Agua;Eléctrico;12.0 ;0.5 ;Segunda;Agua 2;;171
+171;Lanturn;Johto;Hoenn;;;;Alola;Luz;Agua;Eléctrico;22.5 ;1.2 ;Segunda;Agua 2;;-1
+172;Pichu;Johto;;;;Kalos;;Semilla;Eléctrico;;2.0 ;0.3 ;Segunda;Ninguno;;25
+173;Cleffa;;;;;;Alola;Estrellada;Hada;;3.0 ;0.3 ;Segunda;Ninguno;;35
+174;Igglybuff;Johto;;;;;;Semilla;Normal;Hada;1.0 ;0.3 ;Segunda;Ninguno;;39
+175;Togepi;;;;;;;Bola clavos;Hada;;1.5 ;0.3 ;Segunda;Ninguno;;176
+176;Togetic;Johto;;;;;;Semilla;Hada;Volador;3.2 ;0.6 ;Segunda;Volador;Hada;468
+177;Natu;;Hoenn;;;;;Pajarito;Psíquico;Volador;2.0 ;0.2 ;Segunda;Volador;;178
+178;Xatu;Johto;;;;;;Semilla;Psíquico;Volador;15.0 ;1.5 ;Segunda;Volador;;-1
+179;Mareep;;;;;;;Lana;Eléctrico;;7.8 ;0.6 ;Segunda;Monstruo;Campo;180
+180;Flaaffy;Johto;;;;;;Semilla;Eléctrico;;13.3 ;0.8 ;Segunda;Monstruo;Campo;181
+181;Ampharos;;;;;;;Luz;Eléctrico;;61.5 ;1.4 ;Segunda;Monstruo;Campo;-1
+182;Bellossom;Johto;;;;Kalos;;Semilla;Planta;;5.8 ;0.4 ;Segunda;Planta;;-1
+183;Marill;;Hoenn;;;Kalos;;Ratón agua;Agua;Hada;8.5 ;0.4 ;Segunda;Agua 1;Hada;184
+184;Azumarill;Johto;;;;Kalos;;Semilla;Agua;Hada;28.5 ;0.8 ;Segunda;Agua 1;Hada;-1
+185;Sudowoodo;;;;;;Alola;Imitación;Roca;;38.0 ;1.2 ;Segunda;Mineral;;-1
+186;Politoed;Johto;;;;;;Semilla;Agua;;33.9 ;1.1 ;Segunda;Agua 1;;-1
+187;Hoppip;;;;;Kalos;;Algadón;Planta;Volador;0.5 ;0.4 ;Segunda;Hada;Planta;188
+188;Skiploom;Johto;;;;Kalos;;Semilla;Planta;Volador;1.0 ;0.6 ;Segunda;Hada;Planta;189
+189;Jumpluff;;;;;Kalos;;Algadón;Planta;Volador;3.0 ;0.8 ;Segunda;Hada;Planta;-1
+190;Aipom;Johto;;;;;;Semilla;Normal;;11.5 ;0.8 ;Segunda;Campo;;424
+191;Sunkern;;;;;;;Semilla;Planta;;1.8 ;0.3 ;Segunda;Planta;;192
+192;Sunflora;Johto;;;;;;Semilla;Planta;;8.5 ;0.8 ;Segunda;Planta;;-1
+193;Yanma;;;;;;;Ala clara;Bicho;Volador;38.0 ;1.2 ;Segunda;Bicho;;469
+194;Wooper;Johto;;;;;;Semilla;Agua;Tierra;8.5 ;0.4 ;Segunda;Agua 1;Campo;195
+195;Quagsire;;;;;;;Pez agua;Agua;Tierra;75.0 ;1.4 ;Segunda;Agua 1;Campo;-1
+196;Espeon;Johto;;;;;;Semilla;Psíquico;;26.5 ;0.9 ;Segunda;Campo;;-1
+197;Umbreon;;;;;;Alola;Luz lunar;Siniestro;;27.0 ;1.0 ;Segunda;Campo;;-1
+198;Murkrow;Johto;;;;;;Semilla;Siniestro;Volador;2.1 ;0.5 ;Segunda;Volador;;430
+199;Slowking;;;;;;Alola;Regio;Agua;Psíquico;79.5 ;2.0 ;Segunda;Monstruo;Agua 1;-1
+200;Misdreavus;Johto;;;;;;Semilla;Fantasma;;1.0 ;0.7 ;Segunda;Amorfo;;429
+201;Unown;;;;;;;Símbolo;Psíquico;;5.0 ;0.5 ;Segunda;Ninguno;;-1
+202;Wobbuffet;Johto;;;;;;Semilla;Psíquico;;28.5 ;1.3 ;Segunda;Amorfo;;-1
+203;Girafarig;;Hoenn;;;;;Grancuello;Normal;Psíquico;41.5 ;1.5 ;Segunda;Campo;;-1
+204;Pineco;Johto;;;;;;Semilla;Bicho;;7.2 ;0.6 ;Segunda;Bicho;;205
+205;Forretress;;;;;;;Larva;Bicho;Acero;125.8 ;1.2 ;Segunda;Bicho;;-1
+206;Dunsparce;Johto;;;;Kalos;;Semilla;Normal;;14.0 ;1.5 ;Segunda;Campo;;-1
+207;Gligar;;;;;;;Escorpiala;Tierra;Volador;64.8 ;1.1 ;Segunda;Bicho;;472
+208;Steelix;Johto;;;;;;Semilla;Acero;Tierra;400.0 ;9.2 ;Segunda;Mineral;;-1
+209;Snubbull;;;;;;Alola;Hada;Hada;;7.8 ;0.6 ;Segunda;Campo;Hada;210
+210;Granbull;Johto;;;;;;Semilla;Hada;;48.7 ;1.4 ;Segunda;Campo;Hada;-1
+211;Qwilfish;;;;;;;Globo;Agua;Veneno;3.9 ;0.5 ;Segunda;Agua 2;;-1
+212;Scizor;Johto;;;;;;Semilla;Bicho;Acero;118.0 ;1.8 ;Segunda;Bicho;;-1
+213;Shuckle;;;;;;;Moho;Bicho;Roca;20.5 ;0.6 ;Segunda;Bicho;;-1
+214;Heracross;Johto;;;;;;Semilla;Bicho;Lucha;54.0 ;1.5 ;Segunda;Bicho;;-1
+215;Sneasel;Johto;;;;;Alola;Garra filo;Siniestro;Hielo;28.0 ;0.9 ;Segunda;Campo;;461
+216;Teddiursa;Johto;;;;;;Semilla;Normal;;8.8 ;0.6 ;Segunda;Campo;;217
+217;Ursaring;;;;;;;Hibernante;Normal;;125.8 ;1.8 ;Segunda;Campo;;-1
+218;Slugma;Johto;;;;;;Semilla;Fuego;;35.0 ;0.7 ;Segunda;Amorfo;;219
+219;Magcargo;;Hoenn;;;;;Lava;Fuego;Roca;55.0 ;0.8 ;Segunda;Amorfo;;-1
+220;Swinub;Johto;;;;;;Semilla;Hielo;Tierra;6.5 ;0.4 ;Segunda;Campo;;221
+221;Piloswine;;;;;;;Puerco;Hielo;Tierra;55.8 ;1.1 ;Segunda;Campo;;473
+222;Corsola;Johto;;;;;;Semilla;Agua;Roca;5.0 ;0.6 ;Segunda;Agua 1;Agua 3;-1
+223;Remoraid;;;;;;;Reactor;Agua;;12.0 ;0.6 ;Segunda;Agua 1;Agua 2;224
+224;Octillery;Johto;;;;;;Semilla;Agua;;28.5 ;0.9 ;Segunda;Agua 1;Agua 2;-1
+225;Delibird;;;;;;Alola;Reparto;Hielo;Volador;16.0 ;0.9 ;Segunda;Agua 1;Campo;-1
+226;Mantine;Johto;;;;;;Semilla;Agua;Volador;220.0 ;2.1 ;Segunda;Agua 1;;-1
+227;Skarmory;;Hoenn;;;;Alola;Coraza ave;Acero;Volador;50.5 ;1.7 ;Segunda;Volador;;-1
+228;Houndour;Johto;;;;;;Semilla;Siniestro;Fuego;10.8 ;0.6 ;Segunda;Campo;;229
+229;Houndoom;;;;;;;Siniestro;Siniestro;Fuego;35.0 ;1.4 ;Segunda;Campo;;-1
+230;Kingdra;Johto;;;;;;Semilla;Agua;Dragón;152.0 ;1.8 ;Segunda;Agua 1;Dragón;-1
+231;Phanpy;;Hoenn;;;;;Narizotas;Tierra;;33.5 ;0.5 ;Segunda;Campo;;232
+232;Donphan;Johto;;;;;;Semilla;Tierra;;120.0 ;1.1 ;Segunda;Campo;;-1
+233;Porygon2;;;;;;Alola;Virtual;Normal;;32.5 ;0.6 ;Segunda;Mineral;;474
+234;Stantler;Johto;;;;;;Semilla;Normal;;71.2 ;1.4 ;Segunda;Campo;;-1
+235;Smeargle;;;;;Kalos;Alola;Pintor;Normal;;58.0 ;1.2 ;Segunda;Campo;;-1
+236;Tyrogue;Johto;;;;;;Semilla;Lucha;;21.0 ;0.7 ;Segunda;Ninguno;;106
+237;Hitmontop;;;;;;;Boca abajo;Lucha;;48.0 ;1.4 ;Segunda;Humanoide;;-1
+238;Smoochum;Johto;;;;;;Semilla;Hielo;Psíquico;6.0 ;0.4 ;Segunda;Ninguno;;124
+239;Elekid;;;;;;Alola;Eléctrico;Eléctrico;;23.5 ;0.6 ;Segunda;Ninguno;;125
+240;Magby;Johto;;;;;;Semilla;Fuego;;21.4 ;0.7 ;Segunda;Ninguno;;126
+241;Miltank;;;;;;Alola;Lechera;Normal;;75.5 ;1.2 ;Segunda;Campo;;-1
+242;Blissey;Johto;;;;;;Semilla;Normal;;46.8 ;1.5 ;Segunda;Hada;;-1
+243;Raikou;Johto;;;;;;Trueno;Eléctrico;;178.0 ;1.9 ;Segunda;Ninguno;;-1
+244;Entei;Johto;;;;;;Semilla;Fuego;;198.0 ;2.1 ;Segunda;Ninguno;;-1
+245;Suicune;Johto;;;;;;Aurora;Agua;;187.0 ;2.0 ;Segunda;Ninguno;;-1
+246;Larvitar;Johto;;;;;;Semilla;Roca;Tierra;72.0 ;0.6 ;Segunda;Monstruo;;247
+247;Pupitar;Johto;;;;;;Caparazón;Roca;Tierra;152.0 ;1.2 ;Segunda;Monstruo;;248
+248;Tyranitar;Johto;;;;;;Semilla;Roca;Siniestro;202.0 ;2.0 ;Segunda;Monstruo;;-1
+249;Lugia;Johto;;;;;;Buceo;Psíquico;Volador;216.0 ;5.2 ;Segunda;Ninguno;;-1
+250;Ho-Oh;Johto;;;;;;Semilla;Fuego;Volador;199.0 ;3.8 ;Segunda;Ninguno;;-1
+251;Celebi;Johto;;;;;;Viajetiempo;Psíquico;Planta;5.0 ;0.6 ;Segunda;Ninguno;;-1
+252;Treecko;Johto;;;;;;Semilla;Planta;;5.0 ;0.5 ;Tercera;Monstruo;Dragón;253
+253;Grovyle;Johto;Hoenn;;;;;Geco bosque;Planta;;21.6 ;0.9 ;Tercera;Monstruo;Dragón;254
+254;Sceptile;Johto;;;;;;Semilla;Planta;;52.2 ;1.7 ;Tercera;Monstruo;Dragón;-1
+255;Torchic;;Hoenn;;;;;Polluelo;Fuego;;2.5 ;0.4 ;Tercera;Campo;;256
+256;Combusken;Johto;;;;;;Semilla;Fuego;Lucha;19.5 ;0.9 ;Tercera;Campo;;257
+257;Blaziken;;Hoenn;;;;;Llameante;Fuego;Lucha;52.0 ;1.9 ;Tercera;Campo;;-1
+258;Mudkip;Johto;;;;;;Semilla;Agua;;7.6 ;0.4 ;Tercera;Monstruo;Agua 1;259
+259;Marshtomp;;Hoenn;;;;;Pez lodo;Agua;Tierra;28.0 ;0.7 ;Tercera;Monstruo;Agua 1;260
+260;Swampert;Johto;;;;;;Semilla;Agua;Tierra;81.9 ;1.5 ;Tercera;Monstruo;Agua 1;-1
+261;Poochyena;;Hoenn;;;;;Mordisco;Siniestro;;13.6 ;0.5 ;Tercera;Campo;;262
+262;Mightyena;Johto;;;;;;Semilla;Siniestro;;37.0 ;1.0 ;Tercera;Campo;;-1
+263;Zigzagoon;;Hoenn;;;Kalos;;Mapachito;Normal;;17.5 ;0.4 ;Tercera;Campo;;264
+264;Linoone;Johto;;;;Kalos;;Semilla;Normal;;32.5 ;0.5 ;Tercera;Campo;;-1
+265;Wurmple;;Hoenn;;;;;Gusano;Bicho;;3.6 ;0.3 ;Tercera;Bicho;;-1
+266;Silcoon;Johto;;;;;;Semilla;Bicho;;10.0 ;0.6 ;Tercera;Bicho;;267
+267;Beautifly;;Hoenn;;;;;Mariposa;Bicho;Volador;28.4 ;1.0 ;Tercera;Bicho;;-1
+268;Cascoon;Johto;;;;;;Semilla;Bicho;;11.5 ;0.7 ;Tercera;Bicho;;269
+269;Dustox;;Hoenn;;;;;Polilla venenosa;Bicho;Veneno;31.6 ;1.2 ;Tercera;Bicho;;-1
+270;Lotad;Johto;;;;;;Semilla;Agua;Planta;2.6 ;0.5 ;Tercera;Agua 1;Planta;271
+271;Lombre;;Hoenn;;;;;Alegre;Agua;Planta;32.5 ;1.2 ;Tercera;Agua 1;Planta;272
+272;Ludicolo;Johto;;;;;;Semilla;Agua;Planta;55.0 ;1.5 ;Tercera;Agua 1;Planta;-1
+273;Seedot;;Hoenn;;;;;Bellota;Planta;;4.0 ;0.5 ;Tercera;Campo;Planta;274
+274;Nuzleaf;Johto;;;;;;Semilla;Planta;Siniestro;28.0 ;1.0 ;Tercera;Campo;Planta;275
+275;Shiftry;;Hoenn;;;;;Malvado;Planta;Siniestro;59.6 ;1.3 ;Tercera;Campo;Planta;-1
+276;Taillow;Johto;;;;;;Semilla;Normal;Volador;2.3 ;0.3 ;Tercera;Volador;;277
+277;Swellow;;Hoenn;;;;;Buche;Normal;Volador;19.8 ;0.7 ;Tercera;Volador;;-1
+278;Wingull;Johto;;;;;;Semilla;Agua;Volador;9.5 ;0.6 ;Tercera;Agua 1;Volador;279
+279;Pelipper;;Hoenn;;;;Alola;Ave agua;Agua;Volador;28.0 ;1.2 ;Tercera;Agua 1;Volador;-1
+280;Ralts;Johto;;;;Kalos;;Semilla;Psíquico;Hada;6.6 ;0.4 ;Tercera;Amorfo;;281
+281;Kirlia;;Hoenn;;;Kalos;;Sensorio;Psíquico;Hada;20.2 ;0.8 ;Tercera;Amorfo;;282
+282;Gardevoir;Johto;;;;Kalos;;Semilla;Psíquico;Hada;48.4 ;1.6 ;Tercera;Amorfo;;-1
+283;Surskit;;Hoenn;;;Kalos;Alola;Zapatero;Bicho;Agua;1.7 ;0.5 ;Tercera;Agua 1;Bicho;284
+284;Masquerain;Johto;;;;Kalos;;Semilla;Bicho;Volador;3.6 ;0.8 ;Tercera;Agua 1;Bicho;-1
+285;Shroomish;;Hoenn;;;;;Hongo;Planta;;4.5 ;0.4 ;Tercera;Hada;Planta;286
+286;Breloom;Johto;;;;;;Semilla;Planta;Lucha;39.2 ;1.2 ;Tercera;Hada;Planta;-1
+287;Slakoth;;Hoenn;;;;;Gandul;Normal;;24.0 ;0.8 ;Tercera;Campo;;288
+288;Vigoroth;Johto;;;;;;Semilla;Normal;;46.5 ;1.4 ;Tercera;Campo;;289
+289;Slaking;;Hoenn;;;;;Holgazán;Normal;;130.5 ;2.0 ;Tercera;Campo;;-1
+290;Nincada;Johto;;;;Kalos;;Semilla;Bicho;Tierra;5.5 ;0.5 ;Tercera;Bicho;;291
+291;Ninjask;;Hoenn;;;Kalos;;Ninja;Bicho;Volador;12.0 ;0.8 ;Tercera;Bicho;;-1
+292;Shedinja;Johto;;;;Kalos;;Semilla;Bicho;Fantasma;1.2 ;0.8 ;Tercera;Mineral;;-1
+293;Whismur;;Hoenn;;;Kalos;;Susurro;Normal;;16.3 ;0.6 ;Tercera;Monstruo;Campo;294
+294;Loudred;Johto;;;;Kalos;;Semilla;Normal;;40.5 ;1.0 ;Tercera;Monstruo;Campo;295
+295;Exploud;;Hoenn;;;Kalos;;Escandaloso;Normal;;84.0 ;1.5 ;Tercera;Monstruo;Campo;-1
+296;Makuhita;Johto;;;;;;Semilla;Lucha;;86.4 ;1.0 ;Tercera;Humanoide;;297
+297;Hariyama;;Hoenn;;;;Alola;Empuje;Lucha;;253.8 ;2.3 ;Tercera;Humanoide;;-1
+298;Azurill;Johto;;;;Kalos;;Semilla;Normal;Hada;2.0 ;0.2 ;Tercera;Ninguno;;-1
+299;Nosepass;;Hoenn;;;;Alola;Brújula;Roca;;97.0 ;1.0 ;Tercera;Mineral;;476
+300;Skitty;Johto;;;;Kalos;;Semilla;Normal;;11.0 ;0.6 ;Tercera;Campo;Hada;301
+301;Delcatty;;Hoenn;;;Kalos;;Cursi;Normal;;32.6 ;1.1 ;Tercera;Campo;Hada;-1
+302;Sableye;Johto;;;;;;Semilla;Siniestro;Fantasma;11.0 ;0.5 ;Tercera;Humanoide;;-1
+303;Mawile;;Hoenn;;;;;Tramposo;Acero;Hada;11.5 ;0.6 ;Tercera;Campo;Hada;-1
+304;Aron;Johto;;;;;;Semilla;Acero;Roca;60.0 ;0.4 ;Tercera;Monstruo;;305
+305;Lairon;;Hoenn;;;;;Coraza férrea;Acero;Roca;120.0 ;0.9 ;Tercera;Monstruo;;306
+306;Aggron;Johto;;;;;;Semilla;Acero;Roca;360.0 ;2.1 ;Tercera;Monstruo;;-1
+307;Meditite;;Hoenn;;;Kalos;;Meditador;Lucha;Psíquico;11.2 ;0.6 ;Tercera;Humanoide;;308
+308;Medicham;Johto;;;;Kalos;;Semilla;Lucha;Psíquico;31.5 ;1.3 ;Tercera;Humanoide;;-1
+309;Electrike;;Hoenn;;;;;Calambre;Eléctrico;;15.2 ;0.6 ;Tercera;Campo;;310
+310;Manectric;Johto;;;;;;Semilla;Eléctrico;;40.2 ;1.5 ;Tercera;Campo;;-1
+311;Plusle;;Hoenn;;;Kalos;;Ánimo;Eléctrico;;4.2 ;0.4 ;Tercera;Hada;;-1
+312;Minun;Johto;;;;Kalos;;Semilla;Eléctrico;;4.2 ;0.4 ;Tercera;Hada;;-1
+313;Volbeat;;Hoenn;;;Kalos;;Luciérnaga;Bicho;;17.7 ;0.7 ;Tercera;Bicho;Humanoide;-1
+314;Illumise;Johto;;;;Kalos;;Semilla;Bicho;;17.7 ;0.6 ;Tercera;Bicho;Humanoide;-1
+315;Roselia;;Hoenn;Sinnoh;;Kalos;;Espina;Planta;Veneno;2.0 ;0.3 ;Tercera;Hada;Planta;407
+316;Gulpin;Johto;;;;Kalos;;Semilla;Veneno;;10.3 ;0.4 ;Tercera;Amorfo;;317
+317;Swalot;;Hoenn;;;Kalos;;Bolsa veneno;Veneno;;80.0 ;1.7 ;Tercera;Amorfo;;-1
+318;Carvanha;Johto;;;;Kalos;;Semilla;Agua;Siniestro;20.8 ;0.8 ;Tercera;Agua 2;;319
+319;Sharpedo;;Hoenn;;;Kalos;Alola;Voraz;Agua;Siniestro;88.8 ;1.8 ;Tercera;Agua 2;;-1
+320;Wailmer;Johto;;;;;;Semilla;Agua;;130.0 ;2.0 ;Tercera;Campo;Agua 2;321
+321;Wailord;;Hoenn;;;;Alola;Ballenaflot;Agua;;398.0 ;14.5 ;Tercera;Campo;Agua 2;-1
+322;Numel;Johto;;;;;;Semilla;Fuego;Tierra;24.0 ;0.7 ;Tercera;Campo;;323
+323;Camerupt;;Hoenn;;;;;Erupción;Fuego;Tierra;220.0 ;1.9 ;Tercera;Campo;;-1
+324;Torkoal;Johto;;;;;;Semilla;Fuego;;80.4 ;0.5 ;Tercera;Campo;;-1
+325;Spoink;;Hoenn;;;;;Saltarín;Psíquico;;30.6 ;0.7 ;Tercera;Campo;;326
+326;Grumpig;Johto;;;;;;Semilla;Psíquico;;71.5 ;0.9 ;Tercera;Campo;;-1
+327;Spinda;;Hoenn;;;;Alola;Panda topos;Normal;;5.0 ;1.1 ;Tercera;Campo;Humanoide;-1
+328;Trapinch;Johto;;;;;;Semilla;Tierra;;15.0 ;0.7 ;Tercera;Bicho;;329
+329;Vibrava;;Hoenn;;;;Alola;Vibrante;Tierra;Dragón;15.3 ;1.1 ;Tercera;Bicho;;330
+330;Flygon;Johto;;;;;;Semilla;Tierra;Dragón;82.0 ;2.0 ;Tercera;Bicho;;-1
+331;Cacnea;;Hoenn;;;;;Cactus;Planta;;51.3 ;0.4 ;Tercera;Planta;Humanoide;332
+332;Cacturne;Johto;;;;;;Semilla;Planta;Siniestro;77.4 ;1.3 ;Tercera;Planta;Humanoide;-1
+333;Swablu;;Hoenn;;;;;Ave algodón;Normal;Volador;1.2 ;0.4 ;Tercera;Volador;Dragón;334
+334;Altaria;Johto;;;;;;Semilla;Dragón;Volador;20.6 ;1.1 ;Tercera;Volador;Dragón;-1
+335;Zangoose;;Hoenn;;;;;Gato hurón;Normal;;40.3 ;1.3 ;Tercera;Campo;;-1
+336;Seviper;Johto;;;;;;Semilla;Veneno;;52.5 ;2.7 ;Tercera;Campo;Dragón;-1
+337;Lunatone;;Hoenn;;;;;Meteorito;Roca;Psíquico;168.0 ;1.0 ;Tercera;Mineral;;-1
+338;Solrock;Johto;;;;;;Semilla;Roca;Psíquico;154.0 ;1.2 ;Tercera;Mineral;;-1
+339;Barboach;;Hoenn;;;;Alola;Bigotudo;Agua;Tierra;1.9 ;0.4 ;Tercera;Agua 2;;340
+340;Whiscash;Johto;;;;;;Semilla;Agua;Tierra;23.6 ;0.9 ;Tercera;Agua 2;;-1
+341;Corphish;;Hoenn;;;Kalos;;Rufián;Agua;;11.5 ;0.6 ;Tercera;Agua 1;Agua 3;342
+342;Crawdaunt;Johto;;;;Kalos;;Semilla;Agua;Siniestro;32.8 ;1.1 ;Tercera;Agua 1;Agua 3;-1
+343;Baltoy;;Hoenn;;;;;Muñeco barro;Tierra;Psíquico;21.5 ;0.5 ;Tercera;Mineral;;344
+344;Claydol;Johto;;;;;;Semilla;Tierra;Psíquico;108.0 ;1.5 ;Tercera;Mineral;;-1
+345;Lileep;;Hoenn;;;;;Lila mar;Roca;Planta;23.8 ;1.0 ;Tercera;Agua 3;;346
+346;Cradily;Johto;;;;;;Semilla;Roca;Planta;60.4 ;1.5 ;Tercera;Agua 3;;-1
+347;Anorith;;Hoenn;;;;;Camarón;Roca;Bicho;12.5 ;0.7 ;Tercera;Agua 3;;348
+348;Armaldo;Johto;;;;;;Semilla;Roca;Bicho;68.2 ;1.5 ;Tercera;Agua 3;;-1
+349;Feebas;;Hoenn;;;;Alola;Pez;Agua;;7.4 ;0.6 ;Tercera;Agua 1;Dragón;350
+350;Milotic;Johto;;;;;;Semilla;Agua;;162.0 ;6.2 ;Tercera;Agua 1;Dragón;-1
+351;Castform;;Hoenn;;;;Alola;Clima;Normal;;0.8 ;0.3 ;Tercera;Hada;Amorfo;-1
+352;Kecleon;Johto;;;;Kalos;;Semilla;Normal;;22.0 ;1.0 ;Tercera;Campo;;-1
+353;Shuppet;;Hoenn;;;;;Títere;Fantasma;;2.3 ;0.6 ;Tercera;Amorfo;;354
+354;Banette;Johto;;;;;;Semilla;Fantasma;;12.5 ;1.1 ;Tercera;Amorfo;;-1
+355;Duskull;;Hoenn;;;;;Réquiem;Fantasma;;15.0 ;0.8 ;Tercera;Amorfo;;356
+356;Dusclops;Johto;;;;;;Semilla;Fantasma;;30.6 ;1.6 ;Tercera;Amorfo;;477
+357;Tropius;;Hoenn;;;;;Fruto;Planta;Volador;100.0 ;2.0 ;Tercera;Monstruo;Planta;-1
+358;Chimecho;Johto;;;;;;Semilla;Psíquico;;1.0 ;0.6 ;Tercera;Amorfo;;-1
+359;Absol;;Hoenn;;;;Alola;Catástrofe;Siniestro;;47.0 ;1.2 ;Tercera;Campo;;-1
+360;Wynaut;Johto;;;;;;Semilla;Psíquico;;14.0 ;0.6 ;Tercera;Ninguno;;-1
+361;Snorunt;;Hoenn;;;;Alola;Gorro nieve;Hielo;;16.8 ;0.7 ;Tercera;Hada;Mineral;362
+362;Glalie;Johto;;;;;;Semilla;Hielo;;256.5 ;1.5 ;Tercera;Hada;Mineral;-1
+363;Spheal;;Hoenn;;;;;Aplauso;Hielo;Agua;39.5 ;0.8 ;Tercera;Agua 1;Campo;364
+364;Sealeo;Johto;;;;;;Semilla;Hielo;Agua;87.6 ;1.1 ;Tercera;Agua 1;Campo;365
+365;Walrein;;Hoenn;;;;;Rompehielo;Hielo;Agua;150.6 ;1.4 ;Tercera;Agua 1;Campo;-1
+366;Clamperl;Johto;;;;;;Semilla;Agua;;52.5 ;0.4 ;Tercera;Agua 1;;367
+367;Huntail;;Hoenn;;;;;Abisal;Agua;;27.0 ;1.7 ;Tercera;Agua 1;;-1
+368;Gorebyss;Johto;;;;;;Semilla;Agua;;22.6 ;1.8 ;Tercera;Agua 1;;-1
+369;Relicanth;;Hoenn;;;;Alola;Longevo;Agua;Roca;23.4 ;1.0 ;Tercera;Agua 1;Agua 2;-1
+370;Luvdisc;Johto;;;;;;Semilla;Agua;;8.7 ;0.6 ;Tercera;Agua 2;;-1
+371;Bagon;;Hoenn;;;;Alola;Cabeza roca;Dragón;;42.1 ;0.6 ;Tercera;Dragón;;372
+372;Shelgon;Johto;;;;;;Semilla;Dragón;;110.5 ;1.1 ;Tercera;Dragón;;373
+373;Salamence;;Hoenn;;;;Alola;Dragón;Dragón;Volador;102.6 ;1.5 ;Tercera;Dragón;;-1
+374;Beldum;Johto;;;;;;Semilla;Acero;Psíquico;95.2 ;0.6 ;Tercera;Mineral;;375
+375;Metang;;Hoenn;;;;Alola;Garrahierro;Acero;Psíquico;202.5 ;1.2 ;Tercera;Mineral;;376
+376;Metagross;Johto;;;;;;Semilla;Acero;Psíquico;550.0 ;1.6 ;Tercera;Mineral;;-1
+377;Regirock;;Hoenn;;;;;Pico roca;Roca;;230.0 ;1.7 ;Tercera;Ninguno;;-1
+378;Regice;Johto;;;;;;Semilla;Hielo;;175.0 ;1.8 ;Tercera;Ninguno;;-1
+379;Registeel;;Hoenn;;;;;Hierro;Acero;;205.0 ;1.9 ;Tercera;Ninguno;;-1
+380;Latias;Johto;;;;;;Semilla;Dragón;Psíquico;40.0 ;1.4 ;Tercera;Ninguno;;-1
+381;Latios;;Hoenn;;;;;Eón;Dragón;Psíquico;60.0 ;2.0 ;Tercera;Ninguno;;-1
+382;Kyogre;Johto;;;;;;Semilla;Agua;;352.0 ;4.5 ;Tercera;Ninguno;;-1
+383;Groudon;;Hoenn;;;;;Continente;Tierra;;950.0 ;3.5 ;Tercera;Ninguno;;-1
+384;Rayquaza;Johto;;;;;;Semilla;Dragón;Volador;206.5 ;7.0 ;Tercera;Ninguno;;-1
+385;Jirachi;;Hoenn;;;;;Deseo;Acero;Psíquico;1.1 ;0.3 ;Tercera;Ninguno;;-1
+386;Deoxys;Johto;;;;;;Semilla;Psíquico;;60.8 ;1.7 ;Tercera;Ninguno;;-1
+387;Turtwig;;;;;;;Hojita;Planta;;10.2 ;0.4 ;Cuarta;Monstruo;Planta;388
+388;Grotle;Johto;;;;;;Semilla;Planta;;97.0 ;1.1 ;Cuarta;Monstruo;Planta;389
+389;Torterra;;;Sinnoh;;;;Continente;Planta;Tierra;310.0 ;2.2 ;Cuarta;Monstruo;Planta;-1
+390;Chimchar;Johto;;;;;;Semilla;Fuego;;6.2 ;0.5 ;Cuarta;Campo;Humanoide;391
+391;Monferno;;;Sinnoh;;;;Juguetón;Fuego;Lucha;22.0 ;0.9 ;Cuarta;Campo;Humanoide;392
+392;Infernape;Johto;;;;;;Semilla;Fuego;Lucha;55.0 ;1.2 ;Cuarta;Campo;Humanoide;-1
+393;Piplup;;;Sinnoh;;;;Pingüino;Agua;;5.2 ;0.4 ;Cuarta;Agua 1;Campo;394
+394;Prinplup;Johto;;;;;;Semilla;Agua;;23.0 ;0.8 ;Cuarta;Agua 1;Campo;395
+395;Empoleon;;;Sinnoh;;;;Emperador;Agua;Acero;84.5 ;1.7 ;Cuarta;Agua 1;Campo;-1
+396;Starly;Johto;;;;;;Semilla;Normal;Volador;2.0 ;0.3 ;Cuarta;Volador;;397
+397;Staravia;;;Sinnoh;;;;Estornino;Normal;Volador;15.5 ;0.6 ;Cuarta;Volador;;398
+398;Staraptor;Johto;;;;;;Semilla;Normal;Volador;24.9 ;1.2 ;Cuarta;Volador;;-1
+399;Bidoof;;;Sinnoh;;Kalos;;Gran ratón;Normal;;20.0 ;0.5 ;Cuarta;Agua 1;Campo;400
+400;Bibarel;Johto;;;;Kalos;;Semilla;Normal;Agua;31.5 ;1.0 ;Cuarta;Agua 1;Campo;-1
+401;Kricketot;;;Sinnoh;;;;Grillo;Bicho;;2.2 ;0.3 ;Cuarta;Bicho;;402
+402;Kricketune;Johto;;;;;;Semilla;Bicho;;25.5 ;1.0 ;Cuarta;Bicho;;-1
+403;Shinx;;;Sinnoh;;;;Flash;Eléctrico;;9.5 ;0.5 ;Cuarta;Campo;;404
+404;Luxio;Johto;;;;;;Semilla;Eléctrico;;30.5 ;0.9 ;Cuarta;Campo;;405
+405;Luxray;;;Sinnoh;;;;Chispa ojos;Eléctrico;;42.0 ;1.4 ;Cuarta;Campo;;-1
+406;Budew;Johto;;;;Kalos;;Semilla;Planta;Veneno;1.2 ;0.2 ;Cuarta;Ninguno;;-1
+407;Roserade;;;Sinnoh;;Kalos;;Ramillete;Planta;Veneno;14.5 ;0.9 ;Cuarta;Hada;Planta;-1
+408;Cranidos;Johto;;;;;;Semilla;Roca;;31.5 ;0.9 ;Cuarta;Monstruo;;409
+409;Rampardos;;;Sinnoh;;;Alola;Cabezazo;Roca;;102.5 ;1.6 ;Cuarta;Monstruo;;-1
+410;Shieldon;Johto;;;;;;Semilla;Roca;Acero;57.0 ;0.5 ;Cuarta;Monstruo;;411
+411;Bastiodon;;;Sinnoh;;;Alola;Escudo;Roca;Acero;149.5 ;1.3 ;Cuarta;Monstruo;;-1
+412;Burmy;Johto;;;;Kalos;;Semilla;Bicho;;3.4 ;0.2 ;Cuarta;Bicho;;-1
+413;Wormadam;;;;;Kalos;;Larva;Bicho;Planta, Tierra, Acero;6.5 ;0.5 ;Cuarta;Bicho;;-1
+414;Mothim;Johto;;;;Kalos;;Semilla;Bicho;Volador;23.3 ;0.9 ;Cuarta;Bicho;;-1
+415;Combee;;;;;Kalos;;Abejita;Bicho;Volador;5.5 ;0.3 ;Cuarta;Bicho;;-1
+416;Vespiquen;Johto;;;;Kalos;;Semilla;Bicho;Volador;38.5 ;1.2 ;Cuarta;Bicho;;-1
+417;Pachirisu;;;;;;;Ardillalec;Eléctrico;;3.9 ;0.4 ;Cuarta;Campo;Hada;-1
+418;Buizel;Johto;;;;;;Semilla;Agua;;29.5 ;0.7 ;Cuarta;Agua 1;Campo;419
+419;Floatzel;;;;;;;Nutria marina;Agua;;33.5 ;1.1 ;Cuarta;Agua 1;Campo;-1
+420;Cherubi;Johto;;;;;;Semilla;Planta;;3.3 ;0.4 ;Cuarta;Hada;Planta;421
+421;Cherrim;;;;;;;Floración;Planta;;9.3 ;0.5 ;Cuarta;Hada;Planta;-1
+422;Shellos;Johto;;;;;;Semilla;Agua;;6.3 ;0.3 ;Cuarta;Agua 1;Amorfo;423
+423;Gastrodon;;;;;;Alola;Babosa marina;Agua;Tierra;29.9 ;0.9 ;Cuarta;Agua 1;Amorfo;-1
+424;Ambipom;Johto;;;;;;Semilla;Normal;;20.3 ;1.2 ;Cuarta;Campo;;-1
+425;Drifloon;;;;;;Alola;Globo;Fantasma;Volador;1.2 ;0.4 ;Cuarta;Amorfo;;426
+426;Drifblim;Johto;;;;;;Semilla;Fantasma;Volador;15.0 ;1.2 ;Cuarta;Amorfo;;-1
+427;Buneary;;;;;;;Conejo;Normal;;5.5 ;0.4 ;Cuarta;Campo;Humanoide;428
+428;Lopunny;Johto;;;;;;Semilla;Normal;;33.3 ;1.2 ;Cuarta;Campo;Humanoide;-1
+429;Mismagius;;;;;;Alola;Mágico;Fantasma;;4.4 ;0.9 ;Cuarta;Amorfo;;-1
+430;Honchkrow;Johto;;;;;;Semilla;Siniestro;Volador;27.3 ;0.9 ;Cuarta;Volador;;-1
+431;Glameow;;;;;;;Gastuto;Normal;;3.9 ;0.5 ;Cuarta;Campo;;432
+432;Purugly;Johto;;;;;;Semilla;Normal;;43.8 ;1.0 ;Cuarta;Campo;;-1
+433;Chingling;;;;;;;Campana;Psíquico;;0.6 ;0.2 ;Cuarta;Ninguno;;-1
+434;Stunky;Johto;;;;;;Semilla;Veneno;Siniestro;19.2 ;0.4 ;Cuarta;Campo;;435
+435;Skuntank;;;;;;;Mofeta;Veneno;Siniestro;38.0 ;1.0 ;Cuarta;Campo;;-1
+436;Bronzor;Johto;;;;;;Semilla;Acero;Psíquico;60.5 ;0.5 ;Cuarta;Mineral;;437
+437;Bronzong;;;;;;;Campana bronce;Acero;Psíquico;187.0 ;1.3 ;Cuarta;Mineral;;-1
+438;Bonsly;Johto;;;;;;Semilla;Roca;;15.0 ;0.5 ;Cuarta;Ninguno;;-1
+439;Mime Jr.;;;;;;;Mimo;Psíquico;Hada;13.0 ;0.6 ;Cuarta;Ninguno;;-1
+440;Happiny;Johto;;;;;;Semilla;Normal;;24.4 ;0.6 ;Cuarta;Ninguno;;-1
+441;Chatot;;;;;;;Corchea;Normal;Volador;1.9 ;0.5 ;Cuarta;Volador;;-1
+442;Spiritomb;Johto;;;;;;Semilla;Fantasma;Siniestro;108.0 ;1.0 ;Cuarta;Amorfo;;-1
+443;Gible;;;;;;Alola;Terrascualo;Dragón;Tierra;20.5 ;0.7 ;Cuarta;Monstruo;Dragón;444
+444;Gabite;Johto;;;;;;Semilla;Dragón;Tierra;56.0 ;1.4 ;Cuarta;Monstruo;Dragón;445
+445;Garchomp;;;;;;Alola;Mach;Dragón;Tierra;95.0 ;1.9 ;Cuarta;Monstruo;Dragón;-1
+446;Munchlax;Johto;;;;Kalos;;Semilla;Normal;;105.0 ;0.6 ;Cuarta;Ninguno;;-1
+447;Riolu;;;;;Kalos;Alola;Emanación;Lucha;;20.2 ;0.7 ;Cuarta;Ninguno;;448
+448;Lucario;Johto;;;;Kalos;;Semilla;Lucha;Acero;54.0 ;1.2 ;Cuarta;Campo;Humanoide;-1
+449;Hippopotas;;;;;;;Hipo;Tierra;;49.5 ;0.8 ;Cuarta;Campo;;450
+450;Hippowdon;Johto;;;;;;Semilla;Tierra;;300.0 ;2.0 ;Cuarta;Campo;;-1
+451;Skorupi;;;;;;;Escorpión;Veneno;Bicho;12.0 ;0.8 ;Cuarta;Bicho;Agua 3;452
+452;Drapion;Johto;;;;;;Semilla;Veneno;Siniestro;61.5 ;1.3 ;Cuarta;Bicho;Agua 3;-1
+453;Croagunk;;;;;Kalos;;Boca tóxica;Veneno;Lucha;23.0 ;0.7 ;Cuarta;Humanoide;;454
+454;Toxicroak;Johto;;;;Kalos;;Semilla;Veneno;Lucha;44.4 ;1.3 ;Cuarta;Humanoide;;-1
+455;Carnivine;;;;;;;Caza bichos;Planta;;27.0 ;1.4 ;Cuarta;Planta;;-1
+456;Finneon;Johto;;;;;;Semilla;Agua;;7.0 ;0.4 ;Cuarta;Agua 2;;457
+457;Lumineon;;;;;;Alola;Neón;Agua;;24.0 ;1.2 ;Cuarta;Agua 2;;-1
+458;Mantyke;Johto;;;;;;Semilla;Agua;Volador;65.0 ;1.0 ;Cuarta;Ninguno;;-1
+459;Snover;;;;;;;Árbol nieve;Planta;Hielo;50.5 ;1.0 ;Cuarta;Monstruo;Planta;460
+460;Abomasnow;Johto;;;;;;Semilla;Planta;Hielo;135.5 ;2.2 ;Cuarta;Monstruo;Planta;-1
+461;Weavile;;;;;;Alola;Garra filo;Siniestro;Hielo;34.0 ;1.1 ;Cuarta;Campo;;-1
+462;Magnezone;Johto;;;;;;Semilla;Eléctrico;Acero;180.0 ;1.2 ;Cuarta;Mineral;;-1
+463;Lickilicky;;;;;;;Lametazo;Normal;;140.0 ;1.7 ;Cuarta;Monstruo;;-1
+464;Rhyperior;Johto;;;;;;Semilla;Tierra;Roca;282.8 ;2.4 ;Cuarta;Monstruo;Campo;-1
+465;Tangrowth;;;;;;;Enredadera;Planta;;128.6 ;2.0 ;Cuarta;Planta;;-1
+466;Electivire;Johto;;;;;;Semilla;Eléctrico;;138.6 ;1.8 ;Cuarta;Humanoide;;-1
+467;Magmortar;;;;;;Alola;Explosión;Fuego;;68.0 ;1.6 ;Cuarta;Humanoide;;-1
+468;Togekiss;Johto;;;;;;Semilla;Hada;Volador;38.0 ;1.5 ;Cuarta;Volador;Hada;-1
+469;Yanmega;;;;;;;Libélula;Bicho;Volador;51.5 ;1.9 ;Cuarta;Bicho;;-1
+470;Leafeon;Johto;;;;;;Semilla;Planta;;25.5 ;1.0 ;Cuarta;Campo;;-1
+471;Glaceon;;;;;;Alola;Nievefresca;Hielo;;25.9 ;0.8 ;Cuarta;Campo;;-1
+472;Gliscor;Johto;;;;;;Semilla;Tierra;Volador;42.5 ;2.0 ;Cuarta;Bicho;;-1
+473;Mamoswine;;;;;;;2colmillos;Hielo;Tierra;291.0 ;2.5 ;Cuarta;Campo;;-1
+474;Porygon-Z;Johto;;;;;;Semilla;Normal;;34.0 ;0.9 ;Cuarta;Mineral;;-1
+475;Gallade;;;;;Kalos;;Cuchilla;Psíquico;Lucha;52.0 ;1.6 ;Cuarta;Amorfo;;-1
+476;Probopass;Johto;;;;;;Semilla;Roca;Acero;340.0 ;1.4 ;Cuarta;Mineral;;-1
+477;Dusknoir;;;;;;;Grilletes;Fantasma;;106.6 ;2.2 ;Cuarta;Amorfo;;-1
+478;Froslass;Johto;;;;;;Semilla;Hielo;Fantasma;26.6 ;1.3 ;Cuarta;Hada;Mineral;-1
+479;Rotom;;;;;;;Plasma;Eléctrico;Fantasma;0.3 ;0.3 ;Cuarta;Amorfo;;-1
+480;Uxie;Johto;;;;;;Semilla;Psíquico;;0.3 ;0.3 ;Cuarta;Ninguno;;-1
+481;Mesprit;;;;;;;Sensorio;Psíquico;;0.3 ;0.3 ;Cuarta;Ninguno;;-1
+482;Azelf;Johto;;;;;;Semilla;Psíquico;;0.3 ;0.3 ;Cuarta;Ninguno;;-1
+483;Dialga;;;;;;;Temporal;Acero;Dragón;683.0 ;5.4 ;Cuarta;Ninguno;;-1
+484;Palkia;Johto;;;;;;Semilla;Agua;Dragón;336.0 ;4.2 ;Cuarta;Ninguno;;-1
+485;Heatran;;;;;;;Domo lava;Fuego;Acero;430.0 ;1.7 ;Cuarta;Ninguno;;-1
+486;Regigigas;Johto;;;;;;Semilla;Normal;;420.0 ;3.7 ;Cuarta;Ninguno;;-1
+487;Giratina;;;;;;;Renegado;Fantasma;Dragón;650.0 ;6.9;Cuarta;Ninguno;;-1
+488;Cresselia;Johto;;;;;;Semilla;Psíquico;;85.6 ;1.5 ;Cuarta;Ninguno;;-1
+489;Phione;;;;;;;Marino;Agua;;3.1 ;0.4 ;Cuarta;Agua 1;Hada;-1
+490;Manaphy;Johto;;;;;;Semilla;Agua;;1.4 ;0.3 ;Cuarta;Agua 1;Hada;-1
+491;Darkrai;;;;;;;Oscuridad;Siniestro;;50.5 ;1.5 ;Cuarta;Ninguno;;-1
+492;Shaymin;Johto;;;;;;Semilla;Planta;;2.1 ;0.2;Cuarta;Ninguno;;-1
+493;Arceus;;;;;;;Alfa;Normal;;320.0 ;3.2 ;Cuarta;Ninguno;;-1
+494;Victini;Johto;;;Teselia;;;Semilla;Psíquico;Fuego;4.0 ;0.4 ;Quinta;Ninguno;;-1
+495;Snivy;;;;Teselia;;;Serpiente hierba;Planta;;8.1 ;0.6 ;Cuarta;Campo;Planta;496
+496;Servine;Johto;;;Teselia;;;Semilla;Planta;;16.0 ;0.8 ;Quinta;Campo;Planta;497
+497;Serperior;;;;Teselia;;;Realeza;Planta;;63.0 ;3.3 ;Cuarta;Campo;Planta;-1
+498;Tepig;Johto;;;Teselia;;;Semilla;Fuego;;9.9 ;0.5 ;Quinta;Campo;;499
+499;Pignite;;;;Teselia;;;Cerdo fuego;Fuego;Lucha;55.5 ;1.0 ;Cuarta;Campo;;500
+500;Emboar;Johto;;;Teselia;;;Semilla;Fuego;Lucha;150.0 ;1.6 ;Quinta;Campo;;-1
+501;Oshawott;;;;Teselia;;;Nutria;Agua;;5.9 ;0.5 ;Cuarta;Campo;;502
+502;Dewott;Johto;;;Teselia;;;Semilla;Agua;;24.5 ;0.8 ;Quinta;Campo;;503
+503;Samurott;;;;Teselia;;;Majestuoso;Agua;;94.6 ;1.5 ;Cuarta;Campo;;-1
+504;Patrat;Johto;;;Teselia;;;Semilla;Normal;;11.6 ;0.5 ;Quinta;Campo;;505
+505;Watchog;;;;Teselia;;;Alerta;Normal;;27.0 ;1.1 ;Cuarta;Campo;;-1
+506;Lillipup;Johto;;;Teselia;;;Semilla;Normal;;4.1 ;0.4 ;Quinta;Campo;;507
+507;Herdier;;;;Teselia;;Alola;Leal;Normal;;14.7 ;0.9 ;Cuarta;Campo;;508
+508;Stoutland;Johto;;;Teselia;;;Semilla;Normal;;61.0 ;1.2 ;Quinta;Campo;;-1
+509;Purrloin;;;;Teselia;;;Malicioso;Siniestro;;10.1 ;0.4 ;Cuarta;Campo;;510
+510;Liepard;Johto;;;Teselia;;;Semilla;Siniestro;;37.5 ;1.1 ;Quinta;Campo;;-1
+511;Pansage;;;;Teselia;Kalos;;Mono hierba;Planta;;10.5 ;0.6 ;Cuarta;Campo;;512
+512;Simisage;Johto;;;Teselia;Kalos;;Semilla;Planta;;30.5 ;1.1 ;Quinta;Campo;;-1
+513;Pansear;;;;Teselia;Kalos;;Ardiente;Fuego;;11.0 ;0.6 ;Cuarta;Campo;;514
+514;Simisear;Johto;;;Teselia;Kalos;;Semilla;Fuego;;28.0 ;1.0 ;Quinta;Campo;;-1
+515;Panpour;;;;Teselia;Kalos;;Salpicadura;Agua;;13.5 ;0.6 ;Cuarta;Campo;;516
+516;Simipour;Johto;;;Teselia;Kalos;;Semilla;Agua;;29.0 ;1.0 ;Quinta;Campo;;-1
+517;Munna;;;;Teselia;;;Comesueños;Psíquico;;23.3 ;0.6 ;Cuarta;Campo;;518
+518;Musharna;Johto;;;Teselia;;;Semilla;Psíquico;;60.5 ;1.1 ;Quinta;Campo;;-1
+519;Pidove;;;;Teselia;;;Pichón;Normal;Volador;2.1 ;0.3 ;Cuarta;Volador;;520
+520;Tranquill;Johto;;;Teselia;;;Semilla;Normal;Volador;15.0 ;0.6 ;Quinta;Volador;;521
+521;Unfezant;;;;Teselia;;;Altanero;Normal;Volador;29.0 ;1.2 ;Cuarta;Volador;;-1
+522;Blitzle;Johto;;;Teselia;;;Semilla;Eléctrico;;29.8 ;0.8 ;Quinta;Campo;;523
+523;Zebstrika;;;;Teselia;;;Rayo;Eléctrico;;79.5 ;1.6 ;Cuarta;Campo;;-1
+524;Roggenrola;Johto;;;Teselia;;;Semilla;Roca;;18.0 ;0.4 ;Quinta;Mineral;;525
+525;Boldore;;;;Teselia;;Alola;Mineral;Roca;;102.0 ;0.9 ;Cuarta;Mineral;;526
+526;Gigalith;Johto;;;Teselia;;;Semilla;Roca;;260.0 ;1.7 ;Quinta;Mineral;;-1
+527;Woobat;;;;Teselia;;;Murciélago;Psíquico;Volador;2.1 ;0.4 ;Cuarta;Campo;Volador;528
+528;Swoobat;Johto;;;Teselia;;;Semilla;Psíquico;Volador;10.5 ;0.9 ;Quinta;Campo;Volador;-1
+529;Drilbur;;;;Teselia;;;Topo;Tierra;;8.5 ;0.3 ;Cuarta;Campo;;530
+530;Excadrill;Johto;;;Teselia;;;Semilla;Tierra;Acero;40.4 ;0.7 ;Quinta;Campo;;-1
+531;Audino;;;;Teselia;Kalos;;Escucha;Normal;;31.0 ;1.1 ;Cuarta;Hada;;-1
+532;Timburr;Johto;;;Teselia;;;Semilla;Lucha;;12.5 ;0.6 ;Quinta;Humanoide;;533
+533;Gurdurr;;;;Teselia;;;Musculoso;Lucha;;40.0 ;1.2 ;Cuarta;Humanoide;;534
+534;Conkeldurr;Johto;;;Teselia;;;Semilla;Lucha;;87.0 ;1.4 ;Quinta;Humanoide;;-1
+535;Tympole;;;;Teselia;;;Renacuajo;Agua;;4.5 ;0.5 ;Cuarta;Agua 1;;536
+536;Palpitoad;Johto;;;Teselia;;;Semilla;Agua;Tierra;17.0 ;0.8 ;Quinta;Agua 1;;537
+537;Seismitoad;;;;Teselia;;;Vibrante;Agua;Tierra;62.0 ;1.5 ;Cuarta;Agua 1;;-1
+538;Throh;Johto;;;Teselia;;;Semilla;Lucha;;55.5 ;1.3 ;Quinta;Humanoide;;-1
+539;Sawk;;;;Teselia;;;Kárate;Lucha;;51.0 ;1.4 ;Cuarta;Humanoide;;-1
+540;Sewaddle;Johto;;;Teselia;;;Semilla;Bicho;Planta;2.5 ;0.3 ;Quinta;Bicho;;541
+541;Swadloon;;;;Teselia;;;Arropado;Bicho;Planta;7.3 ;0.5 ;Cuarta;Bicho;;542
+542;Leavanny;Johto;;;Teselia;;;Semilla;Bicho;Planta;20.5 ;1.2 ;Quinta;Bicho;;-1
+543;Venipede;;;;Teselia;Kalos;;Ciempiés;Bicho;Veneno;5.3 ;0.4 ;Cuarta;Bicho;;544
+544;Whirlipede;Johto;;;Teselia;Kalos;;Semilla;Bicho;Veneno;58.5 ;1.2 ;Quinta;Bicho;;545
+545;Scolipede;;;;Teselia;Kalos;;Megaciempiés;Bicho;Veneno;200.5 ;2.5 ;Cuarta;Bicho;;-1
+546;Cottonee;Johto;;;Teselia;;;Semilla;Planta;Hada;0.6 ;0.3 ;Quinta;Planta;Hada;547
+547;Whimsicott;;;;Teselia;;Alola;Vuelalviento;Planta;Hada;6.6 ;0.7 ;Cuarta;Planta;Hada;-1
+548;Petilil;Johto;;;Teselia;;;Semilla;Planta;;6.6 ;0.5 ;Quinta;Planta;;549
+549;Lilligant;;;;Teselia;;Alola;Adornofloral;Planta;;16.3 ;1.1 ;Cuarta;Planta;;-1
+550;Basculin;Johto;;;Teselia;;;Semilla;Agua;;18.0 ;1.0 ;Quinta;Agua 2;;-1
+551;Sandile;;;;Teselia;;Alola;Desierdrilo;Tierra;Siniestro;15.2 ;0.7 ;Cuarta;Campo;;552
+552;Krokorok;Johto;;;Teselia;;;Semilla;Tierra;Siniestro;33.4 ;1.0 ;Quinta;Campo;;553
+553;Krookodile;;;;Teselia;;Alola;Amenazador;Tierra;Siniestro;96.3 ;1.5 ;Cuarta;Campo;;-1
+554;Darumaka;Johto;;;Teselia;;;Semilla;Fuego;;37.5 ;0.6 ;Quinta;Campo;;555
+555;Darmanitan;;;;Teselia;;;Candente;Fuego;;92.9 ;1.3 ;Cuarta;Campo;;-1
+556;Maractus;Johto;;;Teselia;;;Semilla;Planta;;28.0 ;1.0 ;Quinta;Planta;;-1
+557;Dwebble;;;;Teselia;;;Casapiedra;Bicho;Roca;14.5 ;0.3 ;Cuarta;Bicho;Mineral;558
+558;Crustle;Johto;;;Teselia;;;Semilla;Bicho;Roca;200.0 ;1.4 ;Quinta;Bicho;Mineral;-1
+559;Scraggy;;;;Teselia;Kalos;;Mudapiel;Siniestro;Lucha;11.8 ;0.6 ;Cuarta;Campo;Dragón;560
+560;Scrafty;Johto;;;Teselia;Kalos;;Semilla;Siniestro;Lucha;30.0 ;1.1 ;Quinta;Campo;Dragón;-1
+561;Sigilyph;;;;Teselia;;;Pseudopájaro;Psíquico;Volador;14.0 ;1.4 ;Cuarta;Volador;;-1
+562;Yamask;Johto;;;Teselia;;;Semilla;Fantasma;;1.5 ;0.5 ;Quinta;Mineral;Amorfo;563
+563;Cofagrigus;;;;Teselia;;;Sepultura;Fantasma;;76.5 ;1.7 ;Cuarta;Mineral;Amorfo;-1
+564;Tirtouga;Johto;;;Teselia;;;Semilla;Agua;Roca;16.5 ;0.7 ;Quinta;Agua 1;Agua 3;565
+565;Carracosta;;;;Teselia;;Alola;Pretortuga;Agua;Roca;81.0 ;1.2 ;Cuarta;Agua 1;Agua 3;-1
+566;Archen;Johto;;;Teselia;;;Semilla;Roca;Volador;9.5 ;0.5 ;Quinta;Volador;Agua 3;567
+567;Archeops;;;;Teselia;;Alola;Protopájaro;Roca;Volador;32.0 ;1.4 ;Cuarta;Volador;Agua 3;-1
+568;Trubbish;Johto;;;Teselia;;;Semilla;Veneno;;31.0 ;0.6 ;Quinta;Mineral;;569
+569;Garbodor;;;;Teselia;;Alola;Vertedero;Veneno;;107.3 ;1.9 ;Cuarta;Mineral;;-1
+570;Zorua;Johto;;;Teselia;;;Semilla;Siniestro;;12.5 ;0.7 ;Quinta;Campo;;571
+571;Zoroark;;;;Teselia;;;Disfrazorro;Siniestro;;81.1 ;1.6 ;Cuarta;Campo;;-1
+572;Minccino;Johto;;;Teselia;;;Semilla;Normal;;5.8 ;0.4 ;Quinta;Campo;;573
+573;Cinccino;;;;Teselia;;;Estola;Normal;;7.5 ;0.5 ;Cuarta;Campo;;-1
+574;Gothita;Johto;;;Teselia;;;Semilla;Psíquico;;5.8 ;0.4 ;Quinta;Humanoide;;575
+575;Gothorita;;;;Teselia;;;Manipulador;Psíquico;;18.0 ;0.7 ;Cuarta;Humanoide;;576
+576;Gothitelle;Johto;;;Teselia;;;Semilla;Psíquico;;44.0 ;1.5 ;Quinta;Humanoide;;-1
+577;Solosis;;;;Teselia;;;Célula;Psíquico;;1.0 ;0.3 ;Cuarta;Amorfo;;578
+578;Duosion;Johto;;;Teselia;;;Semilla;Psíquico;;8.0 ;0.6 ;Quinta;Amorfo;;579
+579;Reuniclus;;;;Teselia;;;Ampliación;Psíquico;;20.1 ;1.0 ;Cuarta;Amorfo;;-1
+580;Ducklett;Johto;;;Teselia;Kalos;;Semilla;Agua;Volador;5.5 ;0.5 ;Quinta;Agua 1;Volador;581
+581;Swanna;;;;Teselia;Kalos;;Cisne;Agua;Volador;24.2 ;1.3 ;Cuarta;Agua 1;Volador;-1
+582;Vanillite;Johto;;;Teselia;;;Semilla;Hielo;;5.7 ;0.4 ;Quinta;Mineral;;583
+583;Vanillish;;;;Teselia;;Alola;Nievehelada;Hielo;;41.0 ;1.1 ;Cuarta;Mineral;;584
+584;Vanilluxe;Johto;;;Teselia;;;Semilla;Hielo;;57.5 ;1.3 ;Quinta;Mineral;;-1
+585;Deerling;;;;Teselia;;;Estacional;Normal;Planta;19.5 ;0.6 ;Cuarta;Campo;;586
+586;Sawsbuck;Johto;;;Teselia;;;Semilla;Normal;Planta;92.5 ;1.9 ;Quinta;Campo;;-1
+587;Emolga;;;;Teselia;;Alola;Vuelardilla;Eléctrico;Volador;5.0 ;0.4 ;Cuarta;Campo;;-1
+588;Karrablast;Johto;;;Teselia;;;Semilla;Bicho;;5.9 ;0.5 ;Quinta;Bicho;;589
+589;Escavalier;;;;Teselia;;;Soldado;Bicho;Acero;33.0 ;1.0 ;Cuarta;Bicho;;-1
+590;Foongus;Johto;;;Teselia;;;Semilla;Planta;Veneno;1.0 ;0.2 ;Quinta;Planta;;591
+591;Amoonguss;;;;Teselia;;;Hongo;Planta;Veneno;10.5 ;0.6 ;Cuarta;Planta;;-1
+592;Frillish;Johto;;;Teselia;;;Semilla;Agua;Fantasma;33.0 ;1.2 ;Quinta;Amorfo;;593
+593;Jellicent;;;;Teselia;;;Ingrávido;Agua;Fantasma;135.0 ;2.2 ;Cuarta;Amorfo;;-1
+594;Alomomola;Johto;;;Teselia;;;Semilla;Agua;;31.6 ;1.2 ;Quinta;Agua 1;Agua 2;-1
+595;Joltik;;;;Teselia;;;Lapa;Bicho;Eléctrico;0.6 ;0.1 ;Cuarta;Bicho;;596
+596;Galvantula;Johto;;;Teselia;;;Semilla;Bicho;Eléctrico;14.3 ;0.8 ;Quinta;Bicho;;-1
+597;Ferroseed;;;;Teselia;;;Frutoespina;Planta;Acero;18.8 ;0.6 ;Cuarta;Planta;Mineral;598
+598;Ferrothorn;Johto;;;Teselia;;;Semilla;Planta;Acero;110.0 ;1.0 ;Quinta;Planta;Mineral;-1
+599;Klink;;;;Teselia;;;Engranaje;Acero;;21.0 ;0.3 ;Cuarta;Mineral;;600
+600;Klang;Johto;;;Teselia;;;Semilla;Acero;;51.0 ;0.6 ;Quinta;Mineral;;601
+601;Klinklang;;;;Teselia;;;Engranaje;Acero;;81.0 ;0.6 ;Cuarta;Mineral;;-1
+602;Tynamo;Johto;;;Teselia;;;Semilla;Eléctrico;;0.3 ;0.2 ;Quinta;Amorfo;;603
+603;Eelektrik;;;;Teselia;;;Electropez;Eléctrico;;22.0 ;1.2 ;Cuarta;Amorfo;;604
+604;Eelektross;Johto;;;Teselia;;;Semilla;Eléctrico;;85.5 ;2.1 ;Quinta;Amorfo;;-1
+605;Elgyem;;;;Teselia;;;Cerebro;Psíquico;;9.0 ;0.5 ;Cuarta;Humanoide;;606
+606;Beheeyem;Johto;;;Teselia;;;Semilla;Psíquico;;34.5 ;1.0 ;Quinta;Humanoide;;-1
+607;Litwick;;;;Teselia;;;Vela;Fantasma;Fuego;3.1 ;0.3 ;Cuarta;Amorfo;;608
+608;Lampent;Johto;;;Teselia;;;Semilla;Fantasma;Fuego;13.0 ;0.6 ;Quinta;Amorfo;;609
+609;Chandelure;;;;Teselia;;;Señuelo;Fantasma;Fuego;34.3 ;1.0 ;Cuarta;Amorfo;;-1
+610;Axew;Johto;;;Teselia;Kalos;;Semilla;Dragón;;18.0 ;0.6 ;Quinta;Monstruo;Dragón;611
+611;Fraxure;;;;Teselia;Kalos;;Bocahacha;Dragón;;36.0 ;1.0 ;Cuarta;Monstruo;Dragón;612
+612;Haxorus;Johto;;;Teselia;Kalos;;Semilla;Dragón;;105.5 ;1.8 ;Quinta;Monstruo;Dragón;-1
+613;Cubchoo;;;;Teselia;;;Congelación;Hielo;;8.5 ;0.5 ;Cuarta;Campo;;614
+614;Beartic;Johto;;;Teselia;;;Semilla;Hielo;;260.0 ;2.6 ;Quinta;Campo;;-1
+615;Cryogonal;;;;Teselia;;;Cristal;Hielo;;148.0 ;1.1 ;Cuarta;Mineral;;-1
+616;Shelmet;Johto;;;Teselia;;;Semilla;Bicho;;7.7 ;0.4 ;Quinta;Bicho;;617
+617;Accelgor;;;;Teselia;;;Sincaparazón;Bicho;;25.3 ;0.8 ;Cuarta;Bicho;;-1
+618;Stunfisk;Johto;;;Teselia;;;Semilla;Tierra;Eléctrico;11.0 ;0.7 ;Quinta;Agua 1;Amorfo;-1
+619;Mienfoo;;;;Teselia;;;Artemarcial;Lucha;;20.0 ;0.9 ;Cuarta;Campo;Humanoide;620
+620;Mienshao;Johto;;;Teselia;;;Semilla;Lucha;;35.5 ;1.4 ;Quinta;Campo;Humanoide;-1
+621;Druddigon;;;;Teselia;;;Cueva;Dragón;;139.0 ;1.6 ;Cuarta;Dragón;Monstruo;-1
+622;Golett;Johto;;;Teselia;;;Semilla;Tierra;Fantasma;92.0 ;1.0 ;Quinta;Mineral;;623
+623;Golurk;;;;Teselia;;;Autómata;Tierra;Fantasma;330.0 ;2.8 ;Cuarta;Mineral;;-1
+624;Pawniard;Johto;;;Teselia;;;Semilla;Siniestro;Acero;10.2 ;0.5 ;Quinta;Humanoide;;625
+625;Bisharp;;;;Teselia;;;Filo;Siniestro;Acero;70.0 ;1.6 ;Cuarta;Humanoide;;-1
+626;Bouffalant;Johto;;;Teselia;;;Semilla;Normal;;94.6 ;1.6 ;Quinta;Campo;;-1
+627;Rufflet;;;;Teselia;;Alola;Aguilucho;Normal;Volador;10.5 ;0.5 ;Cuarta;Volador;;628
+628;Braviary;Johto;;;Teselia;;;Semilla;Normal;Volador;41.0 ;1.5 ;Quinta;Volador;;-1
+629;Vullaby;;;;Teselia;;Alola;Pañal;Siniestro;Volador;9.0 ;0.5 ;Cuarta;Volador;;630
+630;Mandibuzz;Johto;;;Teselia;;;Semilla;Siniestro;Volador;39.5 ;1.2 ;Quinta;Volador;;-1
+631;Heatmor;;;;Teselia;;;Hormiguero;Fuego;;58.0 ;1.4 ;Cuarta;Campo;;-1
+632;Durant;Johto;;;Teselia;;;Semilla;Bicho;Acero;33.0 ;0.3 ;Quinta;Bicho;;-1
+633;Deino;;;;Teselia;;;Tosco;Siniestro;Dragón;17.3 ;0.8 ;Cuarta;Dragón;;634
+634;Zweilous;Johto;;;Teselia;;;Semilla;Siniestro;Dragón;50.0 ;1.4 ;Quinta;Dragón;;635
+635;Hydreigon;;;;Teselia;;;Voraz;Siniestro;Dragón;160.0 ;1.8 ;Cuarta;Dragón;;-1
+636;Larvesta;Johto;;;Teselia;;;Semilla;Bicho;Fuego;28.8 ;1.1 ;Quinta;Bicho;;637
+637;Volcarona;;;;Teselia;;;Sol;Bicho;Fuego;46.0 ;1.6 ;Cuarta;Bicho;;-1
+638;Cobalion;Johto;;;Teselia;;;Semilla;Acero;Lucha;250.0 ;2.1 ;Quinta;Ninguno;;-1
+639;Terrakion;;;;Teselia;;;Gruta;Roca;Lucha;260.0 ;1.9 ;Cuarta;Ninguno;;-1
+640;Virizion;Johto;;;Teselia;;;Semilla;Planta;Lucha;200.0 ;2.0 ;Quinta;Ninguno;;-1
+641;Tornadus;;;;Teselia;;;Torbellino;Volador;;63.0 ;1.4;Cuarta;Ninguno;;-1
+642;Thundurus;Johto;;;Teselia;;;Semilla;Eléctrico;Volador;61.0 ;1.5;Quinta;Ninguno;;-1
+643;Reshiram;;;;Teselia;;;Blanco veraz;Dragón;Fuego;330.0 ;3.2 ;Cuarta;Ninguno;;-1
+644;Zekrom;Johto;;;Teselia;;;Semilla;Dragón;Eléctrico;345.0 ;2.9 ;Quinta;Ninguno;;-1
+645;Landorus;;;;Teselia;;;Fertilidad;Tierra;Volador;68.0 ;1.3;Cuarta;Ninguno;;-1
+646;Kyurem;Johto;;;Teselia;;;Semilla;Dragón;Hielo;325.0 ;3.0 ;Quinta;Ninguno;;-1
+647;Keldeo;;;;Teselia;;;Potro;Agua;Lucha;48.5 ;1.4 ;Cuarta;Ninguno;;-1
+648;Meloetta;Johto;;;Teselia;;;Semilla;Normal;Psíquico;6.5 ;0.6 ;Quinta;Ninguno;;-1
+649;Genesect;;;;Teselia;;;Paleozoico;Bicho;Acero;82.5 ;1.5 ;Cuarta;Ninguno;;-1
+650;Chespin;Johto;;;;Kalos;;Semilla;Planta;;9.0 ;0.4 ;Sexta;Campo;;651
+651;Quilladin;;;;;Kalos;;Corazaespín;Planta;;29.0 ;0.7 ;Sexta;Campo;;652
+652;Chesnaught;Johto;;;;Kalos;;Semilla;Planta;Lucha;90.0 ;1.6 ;Sexta;Campo;;-1
+653;Fennekin;;;;;Kalos;;Zorro;Fuego;;9.4 ;0.4 ;Sexta;Campo;;654
+654;Braixen;Johto;;;;Kalos;;Semilla;Fuego;;14.5 ;1.0 ;Sexta;Campo;;655
+655;Delphox;;;;;Kalos;;Zorro;Fuego;Psíquico;39.0 ;1.5 ;Sexta;Campo;;-1
+656;Froakie;Johto;;;;Kalos;;Semilla;Agua;;7.0 ;0.3 ;Sexta;Agua 1;;-1
+657;Frogadier;;;;;Kalos;;Burburrana;Agua;;10.9 ;0.6 ;Sexta;Agua 1;;658
+658;Greninja;Johto;;;;Kalos;;Semilla;Agua;Siniestro;40.0 ;1.5 ;Sexta;Agua 1;;-1
+659;Bunnelby;;;;;Kalos;;Excavador;Normal;;5.0 ;0.4 ;Sexta;Campo;;660
+660;Diggersby;Johto;;;;Kalos;;Semilla;Normal;Tierra;42.4 ;1.0 ;Sexta;Campo;;-1
+661;Fletchling;;;;;Kalos;Alola;Petirrojo;Normal;Volador;1.7 ;0.3 ;Sexta;Volador;;-1
+662;Fletchinder;Johto;;;;Kalos;;Semilla;Fuego;Volador;16.0 ;0.7 ;Sexta;Volador;;663
+663;Talonflame;;;;;Kalos;Alola;Flamígero;Fuego;Volador;24.5 ;1.2 ;Sexta;Volador;;-1
+664;Scatterbug;Johto;;;;Kalos;;Semilla;Bicho;;2.5 ;0.3 ;Sexta;Bicho;;665
+665;Spewpa;;;;;Kalos;;Tiraescamas;Bicho;;8.4 ;0.3 ;Sexta;Bicho;;666
+666;Vivillon;Johto;;;;Kalos;;Semilla;Bicho;Volador;17.0 ;1.2 ;Sexta;Bicho;;-1
+667;Litleo;;;;;Kalos;;Leoncito;Fuego;Normal;13.0 ;0.6 ;Sexta;Campo;;-1
+668;Pyroar;Johto;;;;Kalos;;Semilla;Fuego;Normal;81.5 ;1.5 ;Sexta;Campo;;-1
+669;Flabebe;;;;;Kalos;;Monoflor;Hada;;0.1 ;0.1 ;Sexta;Hada;;-1
+670;Floette;Johto;;;;Kalos;;Semilla;Hada;;0.9 ;0.2 ;Sexta;Hada;;671
+671;Florges;;;;;Kalos;;Jardín;Hada;;10.0 ;1.1 ;Sexta;Hada;;-1
+672;Skiddo;Johto;;;;Kalos;;Semilla;Planta;;31.0 ;0.4 ;Sexta;Campo;;673
+673;Gogoat;;;;;Kalos;;Montura;Planta;;91.0 ;1.7 ;Sexta;Campo;;-1
+674;Pancham;Johto;;;;Kalos;;Semilla;Lucha;;8.0 ;0.6 ;Sexta;Campo;Humanoide;675
+675;Pangoro;;;;;Kalos;Alola;Rostro fiero;Lucha;Siniestro;136.0 ;2.1 ;Sexta;Campo;Humanoide;-1
+676;Furfrou;Johto;;;;Kalos;;Semilla;Normal;;28.0 ;1.2 ;Sexta;Campo;;-1
+677;Espurr;;;;;Kalos;;Moderación;Psíquico;;3.5 ;0.3 ;Sexta;Campo;;678
+678;Meowstic;Johto;;;;Kalos;;Semilla;Psíquico;;8.5 ;0.6 ;Sexta;Campo;;-1
+679;Honedge;;;;;Kalos;;Tizona;Acero;Fantasma;2.0 ;0.8 ;Sexta;Mineral;;680
+680;Doublade;Johto;;;;Kalos;;Semilla;Acero;Fantasma;4.5 ;0.8 ;Sexta;Mineral;;681
+681;Aegislash;;;;;Kalos;;Espada real;Acero;Fantasma;53.0 ;1.7 ;Sexta;Mineral;;-1
+682;Spritzee;Johto;;;;Kalos;;Semilla;Hada;;0.5 ;0.2 ;Sexta;Hada;;683
+683;Aromatisse;;;;;Kalos;;Fragancia;Hada;;15.5 ;0.8 ;Sexta;Hada;;-1
+684;Swirlix;Johto;;;;Kalos;;Semilla;Hada;;3.5 ;0.4 ;Sexta;Hada;;-1
+685;Slurpuff;;;;;Kalos;;Nata;Hada;;5.0 ;0.8 ;Sexta;Hada;;-1
+686;Inkay;Johto;;;;;;Semilla;Siniestro;Psíquico;3.5 ;0.4 ;Sexta;Agua 1;Agua 2;687
+687;Malamar;;;;;;;Revolución;Siniestro;Psíquico;47.0 ;1.5 ;Sexta;Agua 1;Agua 2;-1
+688;Binacle;Johto;;;;;;Semilla;Roca;Agua;31.0 ;0.5 ;Sexta;Agua 3;;689
+689;Barbaracle;;;;;;;Combinación;Roca;Agua;96.0 ;1.3 ;Sexta;Agua 3;;-1
+690;Skrelp;Johto;;;;;;Semilla;Veneno;Agua;7.3 ;0.5 ;Sexta;Agua 1;Dragón;691
+691;Dragalge;;;;;;;Pseudoalga;Veneno;Dragón;81.5 ;1.8 ;Sexta;Agua 1;Dragón;-1
+692;Clauncher;Johto;;;;;;Semilla;Agua;;8.3 ;0.5 ;Sexta;Agua 1;Agua 3;693
+693;Clawitzer;;;;;;;Lanzachorro;Agua;;35.3 ;1.3 ;Sexta;Agua 1;Agua 3;-1
+694;Helioptile;Johto;;;;;;Semilla;Eléctrico;Normal;6.0 ;0.5 ;Sexta;Monstruo;Dragón;695
+695;Heliolisk;;;;;;;Lagarto generador;Eléctrico;Normal;21.0 ;1.0 ;Sexta;Monstruo;Dragón;-1
+696;Tyrunt;Johto;;;;;;Semilla;Roca;Dragón;26.0 ;0.8 ;Sexta;Monstruo;Dragón;697
+697;Tyrantrum;;;;;;;Tirano;Roca;Dragón;270.0;2.5 ;Sexta;Monstruo;Dragón;-1
+698;Amaura;Johto;;;;;;Semilla;Roca;Hielo;25.2 ;1.3 ;Sexta;Monstruo;;699
+699;Aurorus;;;;;;;Tundra;Roca;Hielo;225.0 ;2.7 ;Sexta;Monstruo;;-1
+700;Sylveon;Johto;;;;;;Semilla;Hada;;23.5 ;1.0 ;Sexta;Campo;;-1
+701;Hawlucha;;;;;;;Lucha libre;Lucha;Volador;21.5 ;0.8 ;Sexta;Humanoide;;-1
+702;Dedenne;Johto;;;;;;Semilla;Eléctrico;Hada;2.2 ;0.2 ;Sexta;Campo;Hada;-1
+703;Carbink;;;;;;Alola;Joya;Roca;Hada;5.7 ;0.3 ;Sexta;Hada;Mineral;-1
+704;Goomy;Johto;;;;;;Semilla;Dragón;;2.8 ;0.3 ;Sexta;Dragón;;705
+705;Sliggoo;;;;;;Alola;Molusco;Dragón;;17.5 ;0.8 ;Sexta;Dragón;;-1
+706;Goodra;Johto;;;;;;Semilla;Dragón;;150.5 ;2.0 ;Sexta;Dragón;;-1
+707;Klefki;;;;;;Alola;Llavero;Acero;Hada;3.0 ;0.2 ;Sexta;Mineral;;-1
+708;Phantump;Johto;;;;;;Semilla;Fantasma;Planta;7.0 ;0.4 ;Sexta;Planta;Amorfo;-1
+709;Trevenant;;;;;;Alola;Árbol viejo;Fantasma;Planta;71.0 ;1.5 ;Sexta;Planta;Amorfo;-1
+710;Pumpkaboo;Johto;;;;;;Semilla;Fantasma;Planta;5.0;0.3;Sexta;Amorfo;;-1
+711;Gourgeist;;;;;;;Calabaza;Fantasma;Planta;12.5;1;Sexta;Amorfo;;-1
+712;Bergmite;Johto;;;;;;Semilla;Hielo;;99.5 ;1.0 ;Sexta;Monstruo;;713
+713;Avalugg;;;;;;;Iceberg;Hielo;;505.0 ;2.0 ;Sexta;Monstruo;;-1
+714;Noibat;Johto;;;;;;Semilla;Volador;Dragón;5.0 ;0.5 ;Sexta;Volador;;715
+715;Noivern;;;;;;;Onda sónica;Volador;Dragón;85.0 ;1.5 ;Sexta;Volador;;-1
+716;Xerneas;Johto;;;;;;Semilla;Hada;;215.0 ;3.0 ;Sexta;Ninguno;;-1
+717;Yveltal;;;;;;;Destrucción;Siniestro;Volador;203.0 ;5.8 ;Sexta;Ninguno;;-1
+718;Zygarde;Johto;;;;;;Semilla;Dragón;Tierra;305.0;4.5;Sexta;Ninguno;;-1
+719;Diancie;;;;;Kalos;;Joya;Roca;Hada;8.8 ;0.7 ;Sexta;Ninguno;;-1
+720;Hoopa;Johto;;;;Kalos;;Semilla;Psíquico;Fantasma;9.0;0.5;Sexta;Ninguno;;-1
+721;Volcanion;;;;;Kalos;;Vapor;Fuego;Agua;195.0 ;1.7 ;Sexta;Ninguno;;-1
+722;Rowlet;Johto;;;;;;Semilla;Planta;Volador;1.5 ;0.3 ;Septima;Volador;;-1
+723;Dartrix;;;;;;Alola;Pluma filo;Planta;Volador;16.0;0.7 ;Septima;Volador;;-1
+724;Decidueye;Johto;;;;;;Semilla;Planta;Fantasma;36.6;1.6 ;Septima;Volador;;-1
+725;Litten;;;;;;Alola;Gato fuego;Fuego;;4.3 ;0.4 ;Septima;Campo;;726
+726;Torracat;Johto;;;;;;Semilla;Fuego;;25.0;0.7 ;Septima;Campo;;727
+727;Incineroar;;;;;;Alola;Rudo;Fuego;Siniestro;83.0;1.8 ;Septima;Campo;;-1
+728;Popplio;Johto;;;;;;Semilla;Agua;;7.5 ;0.4 ;Septima;Agua 1;Campo;729
+729;Brionne;;;;;;Alola;Fama;Agua;;17.5;0.6 ;Septima;Agua 1;Campo;730
+730;Primarina;Johto;;;;;;Semilla;Agua;Hada;44.0;1.8 ;Septima;Agua 1;Campo;-1
+731;Pikipek;;;;;;Alola;Carpintero;Normal;Volador;1.2;0.3 ;Septima;Volador;;732
+732;Trumbeak;Johto;;;;;;Semilla;Normal;Volador;14.8;0.6 ;Septima;Volador;;-1
+733;Toucannon;;;;;;Alola;Tucán;Normal;Volador;26.0;1.1 ;Septima;Volador;;-1
+734;Yungoos;Johto;;;;;;Semilla;Normal;;6.0;0.4 ;Septima;Campo;;735
+735;Gumshoos;;;;;;Alola;Vigilante;Normal;;14.2;0.7 ;Septima;Campo;;-1
+736;Grubbin;Johto;;;;;;Semilla;Bicho;;4.4;0.4 ;Septima;Bicho;;737
+737;Charjabug;;;;;;Alola;Batería;Bicho;Eléctrico;10.5;0.5 ;Septima;Bicho;;-1
+738;Vikavolt;Johto;;;;;;Semilla;Bicho;Eléctrico;45.0;1.5 ;Septima;Bicho;;-1
+739;Crabrawler;;;;;;Alola;Púgil;Lucha;;7.0;0.6 ;Septima;Agua 3;;-1
+740;Crabominable;Johto;;;;;;Semilla;Lucha;Hielo;180.0;1.7 ;Septima;Agua 3;;-1
+741;Oricorio;;;;;;Alola;Danza;Fuego, Eléctrico, Psíquico, Fantasma;Volador;3.4;0.6 ;Septima;Volador;;-1
+742;Cutiefly;Johto;;;;;;Semilla;Bicho;Hada;0.2;0.1 ;Septima;Bicho;Hada;743
+743;Ribombee;;;;;;Alola;Mosca abeja;Bicho;Hada;0.5;0.2 ;Septima;Bicho;Hada;-1
+744;Rockruff;Johto;;;;;;Semilla;Roca;;9.2;0.5 ;Septima;Campo;;745
+745;Lycanroc;;;;;;Alola;Lobo;Roca;;25.0 ;0.8;Septima;Campo;;-1
+746;Wishiwashi;Johto;;;;;;Semilla;Agua;;78.6;8.2;Septima;Agua 2;;-1
+747;Mareanie;;;;;;Alola;Estrellatroz;Veneno;Agua;0.8;0.4 ;Septima;Agua 1;;-1
+748;Toxapex;Johto;;;;;;Semilla;Veneno;Agua;14.5;0.7 ;Septima;Agua 1;;-1
+749;Mudbray;;;;;;Alola;Asno;Tierra;;110.0;1.0 ;Septima;Campo;;-1
+750;Mudsdale;Johto;;;;;;Semilla;Tierra;;920.0 ;2.5 ;Septima;Campo;;-1
+751;Dewpider;;;;;;Alola;Pompa;Agua;Bicho;4.0;0.3 ;Septima;Agua 1;Bicho;752
+752;Araquanid;Johto;;;;;;Semilla;Agua;Bicho;82.0;1.8 ;Septima;Agua 1;Bicho;-1
+753;Fomantis;;;;;;Alola;Filo hoja;Planta;;1.5;0.3 ;Septima;Planta;;754
+754;Lurantis;Johto;;;;;;Semilla;Planta;;18.5;0.9 ;Septima;Planta;;-1
+755;Morelull;;;;;;Alola;Luminiscente;Planta;Hada;1.5;0.2 ;Septima;Planta;;-1
+756;Shiinotic;Johto;;;;;;Semilla;Planta;Hada;11.5;1.0 ;Septima;Planta;;-1
+757;Salandit;;;;;;Alola;Lagartoxina;Veneno;Fuego;4.8;0.6 ;Septima;Monstruo;Dragón;758
+758;Salazzle;Johto;;;;;;Semilla;Veneno;Fuego;22.2;1.2 ;Septima;Monstruo;Dragón;-1
+759;Stufful;;;;;;Alola;Rabieta;Normal;Lucha;6.8;0.5 ;Septima;Campo;;760
+760;Bewear;Johto;;;;;;Semilla;Normal;Lucha;135.0;2.1 ;Septima;Campo;;-1
+761;Bounsweet;;;;;;Alola;Fruto;Planta;;3.2;0.3 ;Septima;Planta;;-1
+762;Steenee;Johto;;;;;;Semilla;Planta;;8.2;0.7 ;Septima;Planta;;-1
+763;Tsareena;;;;;;Alola;Fruto;Planta;;21.4;1.2 ;Septima;Planta;;-1
+764;Comfey;Johto;;;;;;Semilla;Hada;;0.3;0.1 ;Septima;Planta;;-1
+765;Oranguru;;;;;;Alola;Sabio;Normal;Psíquico;76.0;1.5 ;Septima;Campo;;-1
+766;Passimian;Johto;;;;;;Semilla;Lucha;;82.8;2.0 ;Septima;Campo;;-1
+767;Wimpod;;;;;;Alola;Huidizo;Bicho;Agua;12.0;0.5 ;Septima;Bicho;Agua 3;768
+768;Golisopod;Johto;;;;;;Semilla;Bicho;Agua;108.0;2.0 ;Septima;Bicho;Agua 3;-1
+769;Sandygast;;;;;;Alola;Montearena;Fantasma;Tierra;70.0;0.5 ;Septima;Amorfo;;770
+770;Palossand;Johto;;;;;;Semilla;Fantasma;Tierra;250.0;1.3 ;Septima;Amorfo;;-1
+771;Pyukumuku;;;;;;Alola;Pepino mar;Agua;;1.2;0.2 ;Septima;Agua 1;;771
+772;Codigo Cero;Johto;;;;;;Semilla;Normal;;120.5;1.9 ;Septima;;;-1
+773;Silvally;;;;;;Alola;Multigénico;Normal;;100.5;2.3 ;Septima;;;-1
+774;Minior;Johto;;;;;;Semilla;Roca;Volador;40.0;0.2 ;Septima;Mineral;;-1
+775;Komala;;;;;;Alola;Duermevela;Normal;;19.9;0.4 ;Septima;Campo;;-1
+776;Turtonator;Johto;;;;;;Semilla;Fuego;Dragón;212.0;2.0 ;Septima;Monstruo;Dragón;-1
+777;Togedemaru;;;;;;Alola;Bolita;Eléctrico;Acero;3.3;0.3 ;Septima;Campo;Hada;-1
+778;Mimikyu;Johto;;;;;;Semilla;Fantasma;Hada;0.7;0.2 ;Septima;Amorfo;;-1
+779;Bruxish;;;;;;Alola;Rechinante;Agua;Psíquico;19.0;0.9 ;Septima;Agua 2;;780
+780;Drampa;Johto;;;;;;Semilla;Normal;Dragón;185.0;3.0 ;Septima;Monstruo;Dragón;-1
+781;Dhelmise;;;;;;Alola;Alga Ancla;Fantasma;Planta;10.0;3.9 ;Septima;Mineral;;-1
+782;Jangmo-o;Johto;;;;;;Semilla;Dragón;;29.7;0.6 ;Septima;Dragón;;783
+783;Hakamo-o;;;;;;Alola;Escamas;Dragón;Lucha;47.0;1.2 ;Septima;Dragón;;784
+784;Kommo-o;Johto;;;;;;Semilla;Dragón;Lucha;78.2;1.6 ;Septima;Dragón;;-1
+785;Tapu Koko;;;;;;Alola;Dios nativo;Eléctrico;Hada;20.5 ;1.8 ;Septima;;;-1
+786;Tapu Lele;Johto;;;;;;Semilla;Psíquico;Hada;18.6 ;1.2 ;Septima;;;-1
+787;Tapu Bulu;;;;;;Alola;Dios nativo;Planta;Hada;45.5 ;1.9 ;Septima;;;-1
+788;Tapu Fini;Johto;;;;;;Semilla;Agua;Hada;21.2 ;1.3 ;Septima;;;-1
+789;Cosmog;;;;;;Alola;Nebulosa;Psíquico;;0.1 ;0.2 ;Septima;;;790
+790;Cosmoem;Johto;;;;;;Semilla;Psíquico;;999.9 ;0.1 ;Septima;;;-1
+791;Solgaleo;;;;;;Alola;Corona solar;Psíquico;Acero;230.0 ;3.4 ;Septima;;;-1
+792;Lunala;Johto;;;;;;Semilla;Psíquico;Fantasma;120.0 ;4.0 ;Septima;;;-1
+793;Nihilego;;;;;;Alola;Parásito;Roca;Veneno;55.5 ;1.2 ;Septima;;;-1
+794;Buzzwole;Johto;;;;;;Semilla;Bicho;Lucha;333.6;2.4 ;Septima;;;-1
+795;Pheromosa;;;;;;Alola;Elegancia;Bicho;Lucha;25.0;1.8 ;Septima;;;-1
+796;Xurkitree;Johto;;;;;;Semilla;Eléctrico;;100.0;3.8 ;Septima;;;-1
+797;Celesteela;;;;;;Alola;Lanzamiento;Acero;Volador;999.9 ;9.2 ;Septima;;;-1
+798;Kartana;Johto;;;;;;Semilla;Planta;Acero;0.1 ;0.3 ;Septima;;;-1
+799;Guzzlord;;;;;;Alola;Tragaldabas;Siniestro;Dragón;888.0 ;5.5 ;Septima;;;-1
+800;Necrozma;Johto;;;;;;Semilla;Psíquico;;230.0;2.4 ;Septima;;;-1
+801;Magearna;;;;;;Alola;Artificial;Acero;Hada;80.5 ;1.0 ;Septima;;;-1
+802;Marshadow;Johto;;;;;;Semilla;Lucha;Fantasma;22.2 ;0.7 ;Septima;;;-1
